@@ -1,363 +1,363 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="beiniz.tr" tvg-name="TR: BEIN IZ FHD" tvg-logo="http://logo.sltv.site/logo/turkeyT/beiniz.png" group-title="TR BELGESEL",TR: BEIN IZ FHD
+#EXTINF:-1,TR: BEIN IZ FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/165597
-#EXTINF:-1 tvg-id="beingurme.tr" tvg-name="TR: BEIN GURME HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_gurne.png" group-title="TR BELGESEL",TR: BEIN GURME HD
+#EXTINF:-1,TR: BEIN GURME HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/130841
-#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="TR: BEIN MOVIES STARS HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_movies_stars.png" group-title="TR SINEMA",TR: BEIN MOVIES STARS HD
+#EXTINF:-1,TR: BEIN MOVIES STARS HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/132400
-#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="TR: BEIN MOVIES TURK HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_movies_turk.png" group-title="TR SINEMA",TR: BEIN MOVIES TURK HD
+#EXTINF:-1,TR: BEIN MOVIES TURK HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/132710
-#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR: BEIN MOVIES PREMIER  HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_movies_premiere_1.png" group-title="TR SINEMA",TR: BEIN MOVIES PREMIER  HD
+#EXTINF:-1,TR: BEIN MOVIES PREMIER  HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/132402
-#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR: BEIN MOVIES PREMIER 2 HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_movies_premire_2.png" group-title="TR SINEMA",TR: BEIN MOVIES PREMIER 2 HD
+#EXTINF:-1,TR: BEIN MOVIES PREMIER 2 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/132709
-#EXTINF:-1 tvg-id="beinmoviesaction.tr" tvg-name="TR: BEIN MOVIES ACTION HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_movies_action.png" group-title="TR SINEMA",TR: BEIN MOVIES ACTION HD
+#EXTINF:-1,TR: BEIN MOVIES ACTION HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/138922
-#EXTINF:-1 tvg-id="beinmoviesaction2.tr" tvg-name="TR: BEIN MOVIES ACTION 2 HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_movies_action_2.png" group-title="TR SINEMA",TR: BEIN MOVIES ACTION 2 HD
+#EXTINF:-1,TR: BEIN MOVIES ACTION 2 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/132708
-#EXTINF:-1 tvg-id="beinmoviesfamily.tr" tvg-name="TR: BEIN MOVIES FAMILY HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_movies_family.png" group-title="TR SINEMA",TR: BEIN MOVIES FAMILY HD
+#EXTINF:-1,TR: BEIN MOVIES FAMILY HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/132398
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SERIES DRAMA HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_series_drama.png" group-title="TR SINEMA",TR: BEIN SERIES DRAMA HD
+#EXTINF:-1,TR: BEIN SERIES DRAMA HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/134194
-#EXTINF:-1 tvg-id="beinseriesscifi.tr" tvg-name="TR: BEIN SERIES SCI-FI HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_series_sc-fi.png" group-title="TR SINEMA",TR: BEIN SERIES SCI-FI HD
+#EXTINF:-1,TR: BEIN SERIES SCI-FI HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/134192
-#EXTINF:-1 tvg-id="beinseriesvice.tr" tvg-name="TR: BEIN SERIES VICE HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_series_vice.png" group-title="TR SINEMA",TR: BEIN SERIES VICE HD
+#EXTINF:-1,TR: BEIN SERIES VICE HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/134193
-#EXTINF:-1 tvg-id="beinseriescomedy.tr" tvg-name="TR: BEIN SERIES COMEDY HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_series_comedy.png" group-title="TR SINEMA",TR: BEIN SERIES COMEDY HD
+#EXTINF:-1,TR: BEIN SERIES COMEDY HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/134195
-#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="TR: BEIN BOX OFFICE 1 HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_box_office.png" group-title="TR SINEMA",TR: BEIN BOX OFFICE 1 HD
+#EXTINF:-1,TR: BEIN BOX OFFICE 1 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/567
-#EXTINF:-1 tvg-id="beinboxoffice2.tr" tvg-name="TR: BEIN BOX OFFICE 2 HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_box_office_2.png" group-title="TR SINEMA",TR: BEIN BOX OFFICE 2 HD
+#EXTINF:-1,TR: BEIN BOX OFFICE 2 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/548
-#EXTINF:-1 tvg-id="beinboxoffice3.tr" tvg-name="TR: BEIN BOX OFFICE 3HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_box_office_3.png" group-title="TR SINEMA",TR: BEIN BOX OFFICE 3HD
+#EXTINF:-1,TR: BEIN BOX OFFICE 3HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/569
-#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="TR: BEIN SPORTS HABER HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sp_haber.png" group-title="TR SPOR",TR: BEIN SPORTS HABER HD
+#EXTINF:-1,TR: BEIN SPORTS HABER HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/129036
-#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="TR: BEIN SPORTS HABER FHD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sp_haber.png" group-title="TR SPOR",TR: BEIN SPORTS HABER FHD
+#EXTINF:-1,TR: BEIN SPORTS HABER FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/383650
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORTS 1 FHD (HQ)" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_1.png" group-title="TR SPOR",TR: BEIN SPORTS 1 FHD (HQ)
+#EXTINF:-1,TR: BEIN SPORTS 1 FHD (HQ)
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/138606
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 FHD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_1.png" group-title="TR SPOR",TR: BEIN SPORTS 1 FHD
+#EXTINF:-1,TR: BEIN SPORTS 1 FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/269058
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORTS 1 HEVC" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_1.png" group-title="TR (HEVC/4K)",TR: BEIN SPORTS 1 HEVC
+#EXTINF:-1,TR: BEIN SPORTS 1 HEVC
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/224566
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORTS 1 HD (LQ)" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_1.png" group-title="TR SPOR",TR: BEIN SPORTS 1 HD (LQ)
+#EXTINF:-1,TR: BEIN SPORTS 1 HD (LQ)
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/6046
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_1.png" group-title="TR SPOR",TR: BEIN SPORTS 1 HD
+#EXTINF:-1,TR: BEIN SPORTS 1 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/123295
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORTS 1 HD (Mac Zamani)" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_1.png" group-title="TR SPOR",TR: BEIN SPORTS 1 HD (Mac Zamani)
+#EXTINF:-1,TR: BEIN SPORTS 1 HD (Mac Zamani)
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/189369
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 FHD (Mac Zamani)" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_1.png" group-title="TR SPOR",TR: BEIN SPORTS 1 FHD (Mac Zamani)
+#EXTINF:-1,TR: BEIN SPORTS 1 FHD (Mac Zamani)
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/299611
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 4K - UHD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_1.png" group-title="TR SPOR",TR: BEIN SPORTS 1 4K - UHD
+#EXTINF:-1,TR: BEIN SPORTS 1 4K - UHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/269994
-#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORTS 1 SD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_1.png" group-title="TR SPOR",TR: BEIN SPORTS 1 SD
+#EXTINF:-1,TR: BEIN SPORTS 1 SD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/138607
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 1 HD (Mac Zamani)*" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_1.png" group-title="TR SPOR",TR: BEIN SPORTS 1 HD (Mac Zamani)*
+#EXTINF:-1,TR: BEIN SPORTS 1 HD (Mac Zamani)*
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/374534
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: BEIN SPORTS 2 HEVC" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_2.png" group-title="TR (HEVC/4K)",TR: BEIN SPORTS 2 HEVC
+#EXTINF:-1,TR: BEIN SPORTS 2 HEVC
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/177939
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_2.png" group-title="TR SPOR",TR: BEIN SPORTS 2 HD
+#EXTINF:-1,TR: BEIN SPORTS 2 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/631
-#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: BEIN SPORTS 2 FHD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_2.png" group-title="TR SPOR",TR: BEIN SPORTS 2 FHD
+#EXTINF:-1,TR: BEIN SPORTS 2 FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/7595
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2 FHD (Mac Zamani)" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_2.png" group-title="TR SPOR",TR: BEIN SPORTS 2 FHD (Mac Zamani)
+#EXTINF:-1,TR: BEIN SPORTS 2 FHD (Mac Zamani)
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/294661
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2 SD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_2.png" group-title="TR SPOR",TR: BEIN SPORTS 2 SD
+#EXTINF:-1,TR: BEIN SPORTS 2 SD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/371296
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 2 HD (Mac Zamani)" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_2.png" group-title="TR SPOR",TR: BEIN SPORTS 2 HD (Mac Zamani)
+#EXTINF:-1,TR: BEIN SPORTS 2 HD (Mac Zamani)
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/371295
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: BEIN SPORTS 3 HEVC" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_3.png" group-title="TR (HEVC/4K)",TR: BEIN SPORTS 3 HEVC
+#EXTINF:-1,TR: BEIN SPORTS 3 HEVC
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/177940
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: BEIN SPORTS 3 HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_3.png" group-title="TR SPOR",TR: BEIN SPORTS 3 HD
+#EXTINF:-1,TR: BEIN SPORTS 3 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/162816
-#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: BEIN SPORTS 3 FHD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_3.png" group-title="TR SPOR",TR: BEIN SPORTS 3 FHD
+#EXTINF:-1,TR: BEIN SPORTS 3 FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/7596
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 3 SD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_3.png" group-title="TR SPOR",TR: BEIN SPORTS 3 SD
+#EXTINF:-1,TR: BEIN SPORTS 3 SD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/294662
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: BEIN SPORTS 4 HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_4.png" group-title="TR SPOR",TR: BEIN SPORTS 4 HD
+#EXTINF:-1,TR: BEIN SPORTS 4 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/123298
-#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: BEIN SPORTS 4 FHD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_4.png" group-title="TR SPOR",TR: BEIN SPORTS 4 FHD
+#EXTINF:-1,TR: BEIN SPORTS 4 FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/7597
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN SPORTS 4 SD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_4.png" group-title="TR SPOR",TR: BEIN SPORTS 4 SD
+#EXTINF:-1,TR: BEIN SPORTS 4 SD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/294663
-#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="TR: BEIN SPORTS MAX 1 HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_max_1.png" group-title="TR SPOR",TR: BEIN SPORTS MAX 1 HD
+#EXTINF:-1,TR: BEIN SPORTS MAX 1 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/114448
-#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="TR: BEIN SPORTS MAX 1  FHD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_max_1.png" group-title="TR SPOR",TR: BEIN SPORTS MAX 1  FHD
+#EXTINF:-1,TR: BEIN SPORTS MAX 1  FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/162818
-#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="TR: BEIN SPORTS MAX 2 HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_max_2.png" group-title="TR SPOR",TR: BEIN SPORTS MAX 2 HD
+#EXTINF:-1,TR: BEIN SPORTS MAX 2 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/114449
-#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="TR: BEIN SPORTS MAX 2  FHD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_max_2.png" group-title="TR SPOR",TR: BEIN SPORTS MAX 2  FHD
+#EXTINF:-1,TR: BEIN SPORTS MAX 2  FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/162819
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN CONNECT HD 1 (Mac Zamani)" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sp.png" group-title="TR SPOR",TR: BEIN CONNECT HD 1 (Mac Zamani)
+#EXTINF:-1,TR: BEIN CONNECT HD 1 (Mac Zamani)
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/350292
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN CONNECT HD 2 (Mac Zamani)" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sp.png" group-title="TR SPOR",TR: BEIN CONNECT HD 2 (Mac Zamani)
+#EXTINF:-1,TR: BEIN CONNECT HD 2 (Mac Zamani)
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/350291
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN CONNECT HD 3 (Mac Zamani)" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sp.png" group-title="TR SPOR",TR: BEIN CONNECT HD 3 (Mac Zamani)
+#EXTINF:-1,TR: BEIN CONNECT HD 3 (Mac Zamani)
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/350290
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN CONNECT HD 4 (Mac Zamani)" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sp.png" group-title="TR SPOR",TR: BEIN CONNECT HD 4 (Mac Zamani)
+#EXTINF:-1,TR: BEIN CONNECT HD 4 (Mac Zamani)
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/350289
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN CONNECT HD 5 (Mac Zamani)" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sp.png" group-title="TR SPOR",TR: BEIN CONNECT HD 5 (Mac Zamani)
+#EXTINF:-1,TR: BEIN CONNECT HD 5 (Mac Zamani)
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/350288
-#EXTINF:-1 tvg-id="" tvg-name="TR: BEIN CONNECT HD 6 (Mac Zamani)" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sp.png" group-title="TR SPOR",TR: BEIN CONNECT HD 6 (Mac Zamani)
+#EXTINF:-1,TR: BEIN CONNECT HD 6 (Mac Zamani)
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/350287
-#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR: BEIN SPORT 1 HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_1.png" group-title="FR SPORT",FR: BEIN SPORT 1 HD
+#EXTINF:-1,FR: BEIN SPORT 1 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/361
-#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR: BEIN SPORT 1 FHD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_1.png" group-title="FR SPORT",FR: BEIN SPORT 1 FHD
+#EXTINF:-1,FR: BEIN SPORT 1 FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/187813
-#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR: VIP BEIN SPORT 1 HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="FR SPORT",FR: VIP BEIN SPORT 1 HEVC
+#EXTINF:-1,FR: VIP BEIN SPORT 1 HEVC
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/218706
-#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR: BEIN SPORT 2 HD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_2.png" group-title="FR SPORT",FR: BEIN SPORT 2 HD
+#EXTINF:-1,FR: BEIN SPORT 2 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/362
-#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR: VIP BEIN SPORT 2 HEVC" tvg-logo="https://cdn.bein.net/fr/wp-content/uploads/2015/09/bein-2hd.png" group-title="FR SPORT",FR: VIP BEIN SPORT 2 HEVC
+#EXTINF:-1,FR: VIP BEIN SPORT 2 HEVC
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/218707
-#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR: BEIN SPORT 2 FHD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_2.png" group-title="FR SPORT",FR: BEIN SPORT 2 FHD
+#EXTINF:-1,FR: BEIN SPORT 2 FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/187812
-#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR: BEIN SPORT 3 HD" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINSPORT31.2MB.png" group-title="FR SPORT",FR: BEIN SPORT 3 HD
+#EXTINF:-1,FR: BEIN SPORT 3 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/363
-#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR: VIP BEIN SPORT 3 HEVC" tvg-logo="http://logo.sltv.site/logo/FRANCE/BEINSPORT3HD.png" group-title="FR SPORT",FR: VIP BEIN SPORT 3 HEVC
+#EXTINF:-1,FR: VIP BEIN SPORT 3 HEVC
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/268448
-#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR: BEIN SPORT 3 FHD" tvg-logo="http://logo.sltv.site/logo/turkeyT/bein_sports_3.png" group-title="FR SPORT",FR: BEIN SPORT 3 FHD
+#EXTINF:-1,FR: BEIN SPORT 3 FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/187811
-#EXTINF:-1 tvg-id="bein4max.fr" tvg-name="FR: BEIN SPORTS MAX 4 HD" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINSPORT41.2MB.png" group-title="FR SPORT",FR: BEIN SPORTS MAX 4 HD
+#EXTINF:-1,FR: BEIN SPORTS MAX 4 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/8565
-#EXTINF:-1 tvg-id="bein4max.fr" tvg-name="FR: BEIN SPORTS MAX 4 FHD" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINSPORT41.2MB.png" group-title="FR SPORT",FR: BEIN SPORTS MAX 4 FHD
+#EXTINF:-1,FR: BEIN SPORTS MAX 4 FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/187747
-#EXTINF:-1 tvg-id="bein5max.fr" tvg-name="FR: BEIN SPORTS MAX  HD 5" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINSPORT51.2MB.png" group-title="FR SPORT",FR: BEIN SPORTS MAX  HD 5
+#EXTINF:-1,FR: BEIN SPORTS MAX  HD 5
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/187746
-#EXTINF:-1 tvg-id="bein5max.fr" tvg-name="FR: BEIN SPORT MAX HD 5" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINSPORT51.2MB.png" group-title="FR SPORT",FR: BEIN SPORT MAX HD 5
+#EXTINF:-1,FR: BEIN SPORT MAX HD 5
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/8566
-#EXTINF:-1 tvg-id="bein6max.fr" tvg-name="FR: BEIN SPORT MAX HD 6" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINSPORT61.2MB.png" group-title="FR SPORT",FR: BEIN SPORT MAX HD 6
+#EXTINF:-1,FR: BEIN SPORT MAX HD 6
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/8567
-#EXTINF:-1 tvg-id="bein6max.fr" tvg-name="FR: BEIN SPORTS MAX 6 FHD" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINSPORT61.2MB.png" group-title="FR SPORT",FR: BEIN SPORTS MAX 6 FHD
+#EXTINF:-1,FR: BEIN SPORTS MAX 6 FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/187745
-#EXTINF:-1 tvg-id="bein7max.fr" tvg-name="FR: BEIN SPORT MAX HD 7" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINSPORT71.2MB.png" group-title="FR SPORT",FR: BEIN SPORT MAX HD 7
+#EXTINF:-1,FR: BEIN SPORT MAX HD 7
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/73482
-#EXTINF:-1 tvg-id="bein8max.fr" tvg-name="FR: BEIN SPORT MAX HD 8" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINSPORT81.2MB.png" group-title="FR SPORT",FR: BEIN SPORT MAX HD 8
+#EXTINF:-1,FR: BEIN SPORT MAX HD 8
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/73483
-#EXTINF:-1 tvg-id="bein9max.fr" tvg-name="FR: BEIN SPORT MAX HD 9" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINSPORT91.2MB.png" group-title="FR SPORT",FR: BEIN SPORT MAX HD 9
+#EXTINF:-1,FR: BEIN SPORT MAX HD 9
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/73484
-#EXTINF:-1 tvg-id="bein10max.fr" tvg-name="FR: BEIN SPORTS MAX  HD 10" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINSPORT101.2MB.png" group-title="FR SPORT",FR: BEIN SPORTS MAX  HD 10
+#EXTINF:-1,FR: BEIN SPORTS MAX  HD 10
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/187741
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN BOOMERANG HD" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINBOOMERANG.png" group-title="AR KIDS",AR: BEIN BOOMERANG HD
+#EXTINF:-1,AR: BEIN BOOMERANG HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/132312
-#EXTINF:-1 tvg-id="" tvg-name="AR: VIP BEIN SERIES 1 HD" tvg-logo="http://logo.sltv.site/logo/ARABE/bein_series_1_tv_channel.png" group-title="AR MOVIES",AR: VIP BEIN SERIES 1 HD
+#EXTINF:-1,AR: VIP BEIN SERIES 1 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/133834
-#EXTINF:-1 tvg-id="" tvg-name="AR: VIP BEIN SERIES 2 HD" tvg-logo="http://logo.sltv.site/logo/ARABE/bein_series_2_tv_channel.png" group-title="AR MOVIES",AR: VIP BEIN SERIES 2 HD
+#EXTINF:-1,AR: VIP BEIN SERIES 2 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/149419
-#EXTINF:-1 tvg-id="beinmovies1.qa" tvg-name="AR: BEIN MOVIES 1" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-movies-hd1-qa.png" group-title="AR MOVIES",AR: BEIN MOVIES 1
+#EXTINF:-1,AR: BEIN MOVIES 1
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/3554
-#EXTINF:-1 tvg-id="beinmovies2.qa" tvg-name="AR: BEIN MOVIES 2" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-movies-hd2-qa.png" group-title="AR MOVIES",AR: BEIN MOVIES 2
+#EXTINF:-1,AR: BEIN MOVIES 2
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/3555
-#EXTINF:-1 tvg-id="beinmovies3.qa" tvg-name="AR: BEIN MOVIES 3" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-movies-hd3-qa.png" group-title="AR MOVIES",AR: BEIN MOVIES 3
+#EXTINF:-1,AR: BEIN MOVIES 3
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/30288
-#EXTINF:-1 tvg-id="beinmovies4.qa" tvg-name="AR: BEIN MOVIES 4" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-movies-hd4-qa.png" group-title="AR ARABIC",AR: BEIN MOVIES 4
+#EXTINF:-1,AR: BEIN MOVIES 4
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/149408
-#EXTINF:-1 tvg-id="jeemtv.qa" tvg-name="AR: BEIN JEEM" tvg-logo="https://banner2.cleanpng.com/20180622/uza/kisspng-jeem-tv-satellite-television-television-channel-be-5b2cbf8c46a1e7.1778688315296592762893.jpg" group-title="AR KIDS",AR: BEIN JEEM
+#EXTINF:-1,AR: BEIN JEEM
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/250302
-#EXTINF:-1 tvg-id="babytv.qa" tvg-name="AR: BEIN BABY" tvg-logo="https://mpng.subpng.com/20181107/ybo/kisspng-babytv-enchanted-babyfirsttv-television-logo-gua-de-canales-totalplay-paquete-familiar-5be3a1c441b737.7394800115416447402692.jpg" group-title="AR KIDS",AR: BEIN BABY
+#EXTINF:-1,AR: BEIN BABY
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/250303
-#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-name="AR: BEIN SPORT NEWS" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sports_news.jpg" group-title="AR SPORT",AR: BEIN SPORT NEWS
+#EXTINF:-1,AR: BEIN SPORT NEWS
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/30067
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS  GLOBAL" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sports_global.jpg" group-title="AR SPORT",AR: BEIN SPORTS  GLOBAL
+#EXTINF:-1,AR: BEIN SPORTS  GLOBAL
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/142422
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR: BEIN SPORTS 1 HD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sports_1hd.jpg" group-title="AR SPORT",AR: BEIN SPORTS 1 HD
+#EXTINF:-1,AR: BEIN SPORTS 1 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/534
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR: BEIN SPORTS 2 HD" tvg-logo="http://logo.sltv.site/logo/ARABE/beinSports2.png" group-title="AR SPORT",AR: BEIN SPORTS 2 HD
+#EXTINF:-1,AR: BEIN SPORTS 2 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/535
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR: BEIN SPORTS 3 HD" tvg-logo="http://logo.sltv.site/logo/ARABE/beinSports3.png" group-title="AR SPORT",AR: BEIN SPORTS 3 HD
+#EXTINF:-1,AR: BEIN SPORTS 3 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/536
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR: BEIN SPORTS 4 HD" tvg-logo="http://logo.sltv.site/logo/ARABE/beinSports4.png" group-title="AR SPORT",AR: BEIN SPORTS 4 HD
+#EXTINF:-1,AR: BEIN SPORTS 4 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/537
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR: BEIN SPORTS 5 HD" tvg-logo="http://logo.sltv.site/logo/ARABE/beinSports5.png" group-title="AR SPORT",AR: BEIN SPORTS 5 HD
+#EXTINF:-1,AR: BEIN SPORTS 5 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/538
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR: BEIN SPORTS 6 HD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sports_6hd.jpg" group-title="AR SPORT",AR: BEIN SPORTS 6 HD
+#EXTINF:-1,AR: BEIN SPORTS 6 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/747
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR: BEIN SPORTS 7 HD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sports_7hd.jpg" group-title="AR SPORT",AR: BEIN SPORTS 7 HD
+#EXTINF:-1,AR: BEIN SPORTS 7 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/748
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR: BEIN PREMIUM 1 HD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sports_8hd.jpg" group-title="AR SPORT",AR: BEIN PREMIUM 1 HD
+#EXTINF:-1,AR: BEIN PREMIUM 1 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/749
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR: BEIN PREMIUM 2 HD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sports_9hd.jpg" group-title="AR SPORT",AR: BEIN PREMIUM 2 HD
+#EXTINF:-1,AR: BEIN PREMIUM 2 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/750
-#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="AR: BEIN PREMIUM 3 HD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sports_10hd.jpg" group-title="AR SPORT",AR: BEIN PREMIUM 3 HD
+#EXTINF:-1,AR: BEIN PREMIUM 3 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/751
-#EXTINF:-1 tvg-id="beinsports11.qa" tvg-name="AR: BEIN ENGLISH 1 HD" tvg-logo="http://logo.sltv.site/logo/ARABE/beinSportsEnglish1.png" group-title="AR SPORT",AR: BEIN ENGLISH 1 HD
+#EXTINF:-1,AR: BEIN ENGLISH 1 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/752
-#EXTINF:-1 tvg-id="beinsports12.qa" tvg-name="AR: BEIN ENGLISH 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_12_hd.png" group-title="AR SPORT",AR: BEIN ENGLISH 2 HD
+#EXTINF:-1,AR: BEIN ENGLISH 2 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/209345
-#EXTINF:-1 tvg-id="" tvg-name="TH: VIP Thai BeIN Sports 1 HD  " tvg-logo="http://logo.sltv.site/logo/Thailand/be_in_sports_1_th.png" group-title="TH THAILAND",TH: VIP Thai BeIN Sports 1 HD  
+#EXTINF:-1,TH: VIP Thai BeIN Sports 1 HD  
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/389882
-#EXTINF:-1 tvg-id="" tvg-name="TH: VIP Thai BeIN Sports 2 HD  " tvg-logo="http://logo.sltv.site/logo/Thailand/bein-sports-2-qa-fr.png" group-title="TH THAILAND",TH: VIP Thai BeIN Sports 2 HD  
+#EXTINF:-1,TH: VIP Thai BeIN Sports 2 HD  
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/389881
-#EXTINF:-1 tvg-id="" tvg-name="TH: bein Sport1 FHD" tvg-logo="" group-title="TH THAILAND",TH: bein Sport1 FHD
+#EXTINF:-1,TH: bein Sport1 FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/354291
-#EXTINF:-1 tvg-id="" tvg-name="TH: bein Sport 2 FHD" tvg-logo="" group-title="TH THAILAND",TH: bein Sport 2 FHD
+#EXTINF:-1,TH: bein Sport 2 FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/354289
-#EXTINF:-1 tvg-id="" tvg-name="TH: Thai BeIN Sports 1 (TH)" tvg-logo="" group-title="TH THAILAND",TH: Thai BeIN Sports 1 (TH)
+#EXTINF:-1,TH: Thai BeIN Sports 1 (TH)
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/354284
-#EXTINF:-1 tvg-id="" tvg-name="TH: Thai BeIN Sports 2 (TH)" tvg-logo="" group-title="TH THAILAND",TH: Thai BeIN Sports 2 (TH)
+#EXTINF:-1,TH: Thai BeIN Sports 2 (TH)
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/354283
-#EXTINF:-1 tvg-id="beinsports.us" tvg-name="US: beIN Sports FHD" tvg-logo="http://pic.qw1234.org/logos/tn_Bein%20Sports.png" group-title="US SPORTS",US: beIN Sports FHD
+#EXTINF:-1,US: beIN Sports FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/130893
-#EXTINF:-1 tvg-id="" tvg-name="AR: VIP BEIN SPORT XTRA 1 HD" tvg-logo="http://logo.sltv.site/logo/ARABE/beINSportsXtra1.png" group-title="AR SPORT",AR: VIP BEIN SPORT XTRA 1 HD
+#EXTINF:-1,AR: VIP BEIN SPORT XTRA 1 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/333091
-#EXTINF:-1 tvg-id="" tvg-name="AR: VIP BEIN SPORT XTRA 2 HD" tvg-logo="http://logo.sltv.site/logo/ARABE/beINSportsXtra2.png" group-title="AR SPORT",AR: VIP BEIN SPORT XTRA 2 HD
+#EXTINF:-1,AR: VIP BEIN SPORT XTRA 2 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/333090
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR: VIP BEIN SPORT 1 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_1.jpg" group-title="AR SPORT",AR: VIP BEIN SPORT 1 FHD
+#EXTINF:-1,AR: VIP BEIN SPORT 1 FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/133816
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR: VIP BEIN SPORT 2 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_2.jpg" group-title="AR SPORT",AR: VIP BEIN SPORT 2 FHD
+#EXTINF:-1,AR: VIP BEIN SPORT 2 FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/133817
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR: VIP BEIN SPORT 3 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_3.jpg" group-title="AR SPORT",AR: VIP BEIN SPORT 3 FHD
+#EXTINF:-1,AR: VIP BEIN SPORT 3 FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/133818
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR: VIP BEIN SPORT 4 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_4.jpg" group-title="AR SPORT",AR: VIP BEIN SPORT 4 FHD
+#EXTINF:-1,AR: VIP BEIN SPORT 4 FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/133819
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR: VIP BEIN SPORT 5 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_5.jpg" group-title="AR SPORT",AR: VIP BEIN SPORT 5 FHD
+#EXTINF:-1,AR: VIP BEIN SPORT 5 FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/133820
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR: VIP BEIN SPORT 6 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_6.jpg" group-title="AR SPORT",AR: VIP BEIN SPORT 6 FHD
+#EXTINF:-1,AR: VIP BEIN SPORT 6 FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/133821
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR: VIP BEIN SPORT 7 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_7.jpg" group-title="AR SPORT",AR: VIP BEIN SPORT 7 FHD
+#EXTINF:-1,AR: VIP BEIN SPORT 7 FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/133822
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR: VIP BEIN PREMIUM 1 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_8.jpg" group-title="AR SPORT",AR: VIP BEIN PREMIUM 1 FHD
+#EXTINF:-1,AR: VIP BEIN PREMIUM 1 FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/133823
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR: VIP BEIN PREMIUM 2 FHD" tvg-logo="http://logo.sltv.site/logo/ARABE/beinSportsPremium2.png" group-title="AR SPORT",AR: VIP BEIN PREMIUM 2 FHD
+#EXTINF:-1,AR: VIP BEIN PREMIUM 2 FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/139572
-#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="AR: VIP BEIN PREMIUM 3 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_10.jpg" group-title="AR SPORT",AR: VIP BEIN PREMIUM 3 FHD
+#EXTINF:-1,AR: VIP BEIN PREMIUM 3 FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/139573
-#EXTINF:-1 tvg-id="beinsports11.qa" tvg-name="AR: VIP BEIN ENGLISH 1 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_11.jpg" group-title="AR SPORT",AR: VIP BEIN ENGLISH 1 FHD
+#EXTINF:-1,AR: VIP BEIN ENGLISH 1 FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/139574
-#EXTINF:-1 tvg-id="beinsports12.qa" tvg-name="AR: VIP BEIN ENGLISH 2 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_12.jpg" group-title="AR SPORT",AR: VIP BEIN ENGLISH 2 FHD
+#EXTINF:-1,AR: VIP BEIN ENGLISH 2 FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/139575
-#EXTINF:-1 tvg-id="beinsports13.qa" tvg-name="AR: VIP BEIN ENGLISH 3 FHD" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_13.jpg" group-title="AR SPORT",AR: VIP BEIN ENGLISH 3 FHD
+#EXTINF:-1,AR: VIP BEIN ENGLISH 3 FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/133824
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORT NBA HD 1080p" tvg-logo="http://logo.sltv.site/logo/ARABE/beinSportsNba.png" group-title="AR SPORT",AR: BEIN SPORT NBA HD 1080p
+#EXTINF:-1,AR: BEIN SPORT NBA HD 1080p
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/193355
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR: VIP BEIN SPORT 1 HD Hevc" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_1.jpg" group-title="AR SPORT",AR: VIP BEIN SPORT 1 HD Hevc
+#EXTINF:-1,AR: VIP BEIN SPORT 1 HD Hevc
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/209441
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR: VIP BEIN SPORT 2 HD Hevc" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINSPORT21.2MB.png" group-title="AR SPORT",AR: VIP BEIN SPORT 2 HD Hevc
+#EXTINF:-1,AR: VIP BEIN SPORT 2 HD Hevc
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/211432
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR: VIP BEIN SPORT 3 HD Hevc" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINSPORT31.2MB.png" group-title="AR SPORT",AR: VIP BEIN SPORT 3 HD Hevc
+#EXTINF:-1,AR: VIP BEIN SPORT 3 HD Hevc
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/211433
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR: VIP BEIN SPORT 4 HD Hevc" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINSPORT41.2MB.png" group-title="AR SPORT",AR: VIP BEIN SPORT 4 HD Hevc
+#EXTINF:-1,AR: VIP BEIN SPORT 4 HD Hevc
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/211434
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR: VIP BEIN SPORT 5 HD Hevc" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINSPORT51.2MB.png" group-title="AR SPORT",AR: VIP BEIN SPORT 5 HD Hevc
+#EXTINF:-1,AR: VIP BEIN SPORT 5 HD Hevc
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/211435
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR: VIP BEIN SPORT 6 HD Hevc" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINSPORT61.2MB.png" group-title="AR SPORT",AR: VIP BEIN SPORT 6 HD Hevc
+#EXTINF:-1,AR: VIP BEIN SPORT 6 HD Hevc
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/211436
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR: VIP BEIN SPORT 7 HD Hevc" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINSPORT71.2MB.png" group-title="AR SPORT",AR: VIP BEIN SPORT 7 HD Hevc
+#EXTINF:-1,AR: VIP BEIN SPORT 7 HD Hevc
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/211437
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR: VIP BEIN PREMIUM 1 HD Hevc" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINSPORT81.2MB.png" group-title="AR SPORT",AR: VIP BEIN PREMIUM 1 HD Hevc
+#EXTINF:-1,AR: VIP BEIN PREMIUM 1 HD Hevc
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/211438
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR: VIP BEIN PREMIUM 2 HD Hevc" tvg-logo="http://logo.sltv.site/logo/ARABE/beinSportsPremium2.png" group-title="AR SPORT",AR: VIP BEIN PREMIUM 2 HD Hevc
+#EXTINF:-1,AR: VIP BEIN PREMIUM 2 HD Hevc
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/211439
-#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="AR: VIP BEIN PREMIUM 3 HD Hevc" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINSPORT101.2MB.png" group-title="AR SPORT",AR: VIP BEIN PREMIUM 3 HD Hevc
+#EXTINF:-1,AR: VIP BEIN PREMIUM 3 HD Hevc
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/211440
-#EXTINF:-1 tvg-id="beinsports11.qa" tvg-name="AR: VIP BEIN ENGLISH 1 HD Hevc" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sports_11hd.jpg" group-title="AR SPORT",AR: VIP BEIN ENGLISH 1 HD Hevc
+#EXTINF:-1,AR: VIP BEIN ENGLISH 1 HD Hevc
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/295924
-#EXTINF:-1 tvg-id="beinsports12.qa" tvg-name="AR: VIP BEIN ENGLISH 2 HD Hevc" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sports_12hd.jpg" group-title="AR SPORT",AR: VIP BEIN ENGLISH 2 HD Hevc
+#EXTINF:-1,AR: VIP BEIN ENGLISH 2 HD Hevc
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/295925
-#EXTINF:-1 tvg-id="beinsports13.qa" tvg-name="AR: VIP BEIN ENGLISH 3 HD Hevc" tvg-logo="http://logo.sltv.site/logo/ARABE/beinSportsEnglish3.png" group-title="AR SPORT",AR: VIP BEIN ENGLISH 3 HD Hevc
+#EXTINF:-1,AR: VIP BEIN ENGLISH 3 HD Hevc
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/295926
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR: VIP BEIN SPORT 01 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_1.jpg" group-title="AR SPORT",AR: VIP BEIN SPORT 01 SD H264
+#EXTINF:-1,AR: VIP BEIN SPORT 01 SD H264
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/294134
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR: VIP BEIN SPORT 02 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_2.jpg" group-title="AR SPORT",AR: VIP BEIN SPORT 02 SD H264
+#EXTINF:-1,AR: VIP BEIN SPORT 02 SD H264
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/294133
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR: VIP BEIN SPORT 03 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_3.jpg" group-title="AR SPORT",AR: VIP BEIN SPORT 03 SD H264
+#EXTINF:-1,AR: VIP BEIN SPORT 03 SD H264
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/294132
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR: VIP BEIN SPORT 04 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_4.jpg" group-title="AR SPORT",AR: VIP BEIN SPORT 04 SD H264
+#EXTINF:-1,AR: VIP BEIN SPORT 04 SD H264
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/294131
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR: VIP BEIN SPORT 05 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_5.jpg" group-title="AR SPORT",AR: VIP BEIN SPORT 05 SD H264
+#EXTINF:-1,AR: VIP BEIN SPORT 05 SD H264
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/294130
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR: VIP BEIN SPORT 06 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_6.jpg" group-title="AR SPORT",AR: VIP BEIN SPORT 06 SD H264
+#EXTINF:-1,AR: VIP BEIN SPORT 06 SD H264
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/294129
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR: VIP BEIN SPORT 07 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_7.jpg" group-title="AR SPORT",AR: VIP BEIN SPORT 07 SD H264
+#EXTINF:-1,AR: VIP BEIN SPORT 07 SD H264
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/294128
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR: VIP BEIN PREMIUM 1 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_8.jpg" group-title="AR SPORT",AR: VIP BEIN PREMIUM 1 SD H264
+#EXTINF:-1,AR: VIP BEIN PREMIUM 1 SD H264
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/294127
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR: VIP BEIN PREMIUM 2 SD H264" tvg-logo="http://logo.sltv.site/logo/ARABE/beinSportsPremium2.png" group-title="AR SPORT",AR: VIP BEIN PREMIUM 2 SD H264
+#EXTINF:-1,AR: VIP BEIN PREMIUM 2 SD H264
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/294126
-#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="AR: VIP BEIN PREMIUM 3 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_10.jpg" group-title="AR SPORT",AR: VIP BEIN PREMIUM 3 SD H264
+#EXTINF:-1,AR: VIP BEIN PREMIUM 3 SD H264
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/294125
-#EXTINF:-1 tvg-id="beinsports11.qa" tvg-name="AR: VIP BEIN ENGLISH 1 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_11.jpg" group-title="AR SPORT",AR: VIP BEIN ENGLISH 1 SD H264
+#EXTINF:-1,AR: VIP BEIN ENGLISH 1 SD H264
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/294124
-#EXTINF:-1 tvg-id="" tvg-name="AR: VIP BEIN ENGLISH 2 SD H264" tvg-logo="http://38.83.75.11/photo/channel_original_image/Sport/bein_sport_hd_12.jpg" group-title="AR SPORT",AR: VIP BEIN ENGLISH 2 SD H264
+#EXTINF:-1,AR: VIP BEIN ENGLISH 2 SD H264
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/333089
-#EXTINF:-1 tvg-id="beinsports13.qa" tvg-name="AR: VIP BEIN ENGLISH 3 SD H264" tvg-logo="http://logo.sltv.site/logo/ARABE/beinSportsEnglish3.png" group-title="AR SPORT",AR: VIP BEIN ENGLISH 3 SD H264
+#EXTINF:-1,AR: VIP BEIN ENGLISH 3 SD H264
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/294122
-#EXTINF:-1 tvg-id="beinsports14.qa" tvg-name="AR: VIP BEIN FRANCE 1 SD H264" tvg-logo="http://logo.sltv.site/logo/ARABE/beinSportsFrance1.png" group-title="AR SPORT",AR: VIP BEIN FRANCE 1 SD H264
+#EXTINF:-1,AR: VIP BEIN FRANCE 1 SD H264
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/294121
-#EXTINF:-1 tvg-id="beinsports15.qa" tvg-name="AR: VIP BEIN FRANCE 2 SD H264" tvg-logo="http://logo.sltv.site/logo/ARABE/beinSportsFrance2.png" group-title="AR SPORT",AR: VIP BEIN FRANCE 2 SD H264
+#EXTINF:-1,AR: VIP BEIN FRANCE 2 SD H264
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/294120
-#EXTINF:-1 tvg-id="beinsports16.qa" tvg-name="AR: VIP BEIN FRANCE 3 SD H264" tvg-logo="http://logo.sltv.site/logo/ARABE/beinSportsFrance3.png" group-title="AR SPORT",AR: VIP BEIN FRANCE 3 SD H264
+#EXTINF:-1,AR: VIP BEIN FRANCE 3 SD H264
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/294119
-#EXTINF:-1 tvg-id="" tvg-name="AR: VIP beIN MAX 1 SD" tvg-logo="http://51.158.145.100/picons/logos/BEINSPORTS-1-MAX-HD.png" group-title="AR SPORT",AR: VIP beIN MAX 1 SD
+#EXTINF:-1,AR: VIP beIN MAX 1 SD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/402869
-#EXTINF:-1 tvg-id="" tvg-name="AR: VIP BEIN MOVIES 1 HEVC (PREMIERE)" tvg-logo="http://51.158.145.100/picons/logos/beinmoviespremiere.png" group-title="AR MOVIES",AR: VIP BEIN MOVIES 1 HEVC (PREMIERE)
+#EXTINF:-1,AR: VIP BEIN MOVIES 1 HEVC (PREMIERE)
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/305836
-#EXTINF:-1 tvg-id="" tvg-name="AR: VIP BEIN MOVIES 2 HEVC (ACTION) " tvg-logo="http://51.158.145.100/picons/logos/beinmoviesactionhd.png" group-title="AR MOVIES",AR: VIP BEIN MOVIES 2 HEVC (ACTION) 
+#EXTINF:-1,AR: VIP BEIN MOVIES 2 HEVC (ACTION) 
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/305837
-#EXTINF:-1 tvg-id="" tvg-name="AR: VIP BEIN MOVIES 3 HEVC (DRAMA) " tvg-logo="http://51.158.145.100/picons/logos/beinmoviescomedy.png" group-title="AR MOVIES",AR: VIP BEIN MOVIES 3 HEVC (DRAMA) 
+#EXTINF:-1,AR: VIP BEIN MOVIES 3 HEVC (DRAMA) 
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/305838
-#EXTINF:-1 tvg-id="" tvg-name="AR: VIP BEIN MOVIES 4 HEVC (FAMILY)" tvg-logo="http://51.158.145.100/picons/logos/beinmoviesfamily.png" group-title="AR MOVIES",AR: VIP BEIN MOVIES 4 HEVC (FAMILY)
+#EXTINF:-1,AR: VIP BEIN MOVIES 4 HEVC (FAMILY)
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/305839
-#EXTINF:-1 tvg-id="beinmovies1.qa" tvg-name="AR: VIP BEIN MOVIES 1 HD Premiere" tvg-logo="http://51.158.145.100/picons/logos/beinmoviespremierehd.png" group-title="AR MOVIES",AR: VIP BEIN MOVIES 1 HD Premiere
+#EXTINF:-1,AR: VIP BEIN MOVIES 1 HD Premiere
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/133825
-#EXTINF:-1 tvg-id="beinmovies2.qa" tvg-name="AR: VIP BEIN MOVIES 2 HD Action" tvg-logo="http://51.158.145.100/picons/logos/beinmoviesaction2hd.png" group-title="AR MOVIES",AR: VIP BEIN MOVIES 2 HD Action
+#EXTINF:-1,AR: VIP BEIN MOVIES 2 HD Action
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/133826
-#EXTINF:-1 tvg-id="beinmovies3.qa" tvg-name="AR: VIP BEIN MOVIES 3 HD Drama" tvg-logo="http://51.158.145.100/picons/logos/beinmoviescomedyhd.png" group-title="AR MOVIES",AR: VIP BEIN MOVIES 3 HD Drama
+#EXTINF:-1,AR: VIP BEIN MOVIES 3 HD Drama
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/133828
-#EXTINF:-1 tvg-id="beinmovies4.qa" tvg-name="AR: VIP BEIN MOVIES 4 HD Family" tvg-logo="http://51.158.145.100/picons/logos/beinmoviesfamilyhd.png" group-title="AR MOVIES",AR: VIP BEIN MOVIES 4 HD Family
+#EXTINF:-1,AR: VIP BEIN MOVIES 4 HD Family
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/30289
-#EXTINF:-1 tvg-id="" tvg-name="AR: VIP BEIN DRAMA FHD" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINDRAMA.png" group-title="AR MOVIES",AR: VIP BEIN DRAMA FHD
+#EXTINF:-1,AR: VIP BEIN DRAMA FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/308016
-#EXTINF:-1 tvg-id="" tvg-name="AR: VIP BEIN GOURMET FHD" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINGOURMETHD.png" group-title="AR ARABIC",AR: VIP BEIN GOURMET FHD
+#EXTINF:-1,AR: VIP BEIN GOURMET FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/308013
-#EXTINF:-1 tvg-id="" tvg-name="AR: VIP BEIN BARAEM FHD" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINBARAEM.png" group-title="AR KIDS",AR: VIP BEIN BARAEM FHD
+#EXTINF:-1,AR: VIP BEIN BARAEM FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/308015
-#EXTINF:-1 tvg-id="" tvg-name="AR: VIP BEIN BE JUNIOR FHD" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINBEJUNIOR.png" group-title="AR KIDS",AR: VIP BEIN BE JUNIOR FHD
+#EXTINF:-1,AR: VIP BEIN BE JUNIOR FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/308014
-#EXTINF:-1 tvg-id="" tvg-name="AR: VIP BEIN JEEM FHD" tvg-logo="http://logo.sltv.site/logo/BEIN/BEINJEEMHD.png" group-title="AR KIDS",AR: VIP BEIN JEEM FHD
+#EXTINF:-1,AR: VIP BEIN JEEM FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/308012
-#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN DRAMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/a/a1/Beindrama.jpg/220px-Beindrama.jpg" group-title="AR MOVIES",AR: BEIN DRAMA HD
+#EXTINF:-1,AR: BEIN DRAMA HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/286875
-#EXTINF:-1 tvg-id="" tvg-name="AR: VIP beIN MAX 1 HD" tvg-logo="http://51.158.145.100/picons/logos/BEINSPORTS-1-MAX-HD.png" group-title="AR SPORT",AR: VIP beIN MAX 1 HD
+#EXTINF:-1,AR: VIP beIN MAX 1 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/401412
-#EXTINF:-1 tvg-id="" tvg-name="AR: VIP beIN MAX 2 HD" tvg-logo="http://51.158.145.100/picons/logos/BEINSPORTS-2-MAX-HD.jpeg" group-title="AR SPORT",AR: VIP beIN MAX 2 HD
+#EXTINF:-1,AR: VIP beIN MAX 2 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/401413
-#EXTINF:-1 tvg-id="" tvg-name="AR: VIP beIN MAX 1 Hevc" tvg-logo="http://51.158.145.100/picons/logos/BEINSPORTS-1-MAX-HD.png" group-title="AR SPORT",AR: VIP beIN MAX 1 Hevc
+#EXTINF:-1,AR: VIP beIN MAX 1 Hevc
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/401345
-#EXTINF:-1 tvg-id="" tvg-name="AR: VIP beIN MAX 2 Hevc" tvg-logo="http://51.158.145.100/picons/logos/BEINSPORTS-2-MAX-HD.jpeg" group-title="AR SPORT",AR: VIP beIN MAX 2 Hevc
+#EXTINF:-1,AR: VIP beIN MAX 2 Hevc
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/401355
-#EXTINF:-1 tvg-id="" tvg-name="AR: VIP beIN MAX 1 FHD" tvg-logo="http://51.158.145.100/picons/logos/BEINSPORTS-1-MAX-HD.png" group-title="AR SPORT",AR: VIP beIN MAX 1 FHD
+#EXTINF:-1,AR: VIP beIN MAX 1 FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/401410
-#EXTINF:-1 tvg-id="" tvg-name="AR: VIP beIN MAX 2 FHD" tvg-logo="http://51.158.145.100/picons/logos/BEINSPORTS-2-MAX-HD.jpeg" group-title="AR SPORT",AR: VIP beIN MAX 2 FHD
+#EXTINF:-1,AR: VIP beIN MAX 2 FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/401411
-#EXTINF:-1 tvg-id="" tvg-name="ID: Bein Sports 1" tvg-logo="" group-title="AS ASIA",ID: Bein Sports 1
+#EXTINF:-1,ID: Bein Sports 1
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/272288
-#EXTINF:-1 tvg-id="" tvg-name="ID: Bein Sport 2" tvg-logo="" group-title="AS ASIA",ID: Bein Sport 2
+#EXTINF:-1,ID: Bein Sport 2
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/272249
-#EXTINF:-1 tvg-id="beinsports.us" tvg-name="US: beIN Sports FHD" tvg-logo="http://logo.sltv.site/logo/USA/bein-sports-qa.png" group-title="US SPORTS",US: beIN Sports FHD
+#EXTINF:-1,US: beIN Sports FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/202458
-#EXTINF:-1 tvg-id="beinsports2.us" tvg-name="US: beIN Sports 2 FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport.jpg" group-title="US SPORTS",US: beIN Sports 2 FHD
+#EXTINF:-1,US: beIN Sports 2 FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/202457
-#EXTINF:-1 tvg-id="beinsports4.us" tvg-name="US: beIN Sports 4 FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport.jpg" group-title="US SPORTS",US: beIN Sports 4 FHD
+#EXTINF:-1,US: beIN Sports 4 FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/202455
-#EXTINF:-1 tvg-id="beinsports5.us" tvg-name="US: beIN Sports 5 FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport.jpg" group-title="US SPORTS",US: beIN Sports 5 FHD
+#EXTINF:-1,US: beIN Sports 5 FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/202454
-#EXTINF:-1 tvg-id="beinsports6.us" tvg-name="US: beIN Sports 6 FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport.jpg" group-title="US SPORTS",US: beIN Sports 6 FHD
+#EXTINF:-1,US: beIN Sports 6 FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/202453
-#EXTINF:-1 tvg-id="beinsports7.us" tvg-name="US: beIN Sports 7 FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport.jpg" group-title="US SPORTS",US: beIN Sports 7 FHD
+#EXTINF:-1,US: beIN Sports 7 FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/202452
-#EXTINF:-1 tvg-id="beinsports8.us" tvg-name="US: beIN Sports 8 FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/be_in_sport.jpg" group-title="US SPORTS",US: beIN Sports 8 FHD
+#EXTINF:-1,US: beIN Sports 8 FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/202451
-#EXTINF:-1 tvg-id="beinsportsxtra.us" tvg-name="US: BeIN Sports Xtra HD" tvg-logo="https://epg-pp.beinsports.com/us_sports/xtra.png" group-title="US SPORTS",US: BeIN Sports Xtra HD
+#EXTINF:-1,US: BeIN Sports Xtra HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/282796
-#EXTINF:-1 tvg-id="beinsport.ca" tvg-name="CA: beIN Sports FHD" tvg-logo="http://51.158.145.100/picons/logos/beinsports.png" group-title="CA CANADA ENGLISH",CA: beIN Sports FHD
+#EXTINF:-1,CA: beIN Sports FHD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/197470
-#EXTINF:-1 tvg-id="" tvg-name="PH: beIN Sports 1" tvg-logo="http://51.158.145.100/picons/logos/beinsports1.png" group-title="PH PHILIPPINES",PH: beIN Sports 1
+#EXTINF:-1,PH: beIN Sports 1
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/225357
-#EXTINF:-1 tvg-id="" tvg-name="AUS: beIN SPORTS 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa.png" group-title="AU AUSTRALIA",AUS: beIN SPORTS 1 HD
+#EXTINF:-1,AUS: beIN SPORTS 1 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/227699
-#EXTINF:-1 tvg-id="" tvg-name="AUS: beIN SPORTS 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="AU AUSTRALIA",AUS: beIN SPORTS 2 HD
+#EXTINF:-1,AUS: beIN SPORTS 2 HD
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/227700
-#EXTINF:-1 tvg-id="" tvg-name="AUS: beIN SPORTS HD 3" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="AU AUSTRALIA",AUS: beIN SPORTS HD 3
+#EXTINF:-1,AUS: beIN SPORTS HD 3
 http://ip.sltv.xyz:8080/JnM2dGN8Qt/VUihwxjVTG/227701
