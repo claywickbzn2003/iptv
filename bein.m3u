@@ -1,405 +1,251 @@
 #EXTM3U
-#EXTINF:-1 xui-id="259253" tvg-id="BEINS1" tvg-name="beIN SPORTS HD" tvg-logo="https://www.millereponses.com/wp-content/uploads/2018/08/Frequence-Bein-Sport-News-HD.png" group-title="Malaysia",beIN SPORTS HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaC2S9AoYWirv2cUW4V6_5d6OQYS1uEmMG9VuUpEPvoNS/ts
-#EXTINF:-1 xui-id="259246" tvg-id="beinsportsmax.my" tvg-name="bEIN MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png" group-title="Malaysia",bEIN MAX
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaM8YXlT9Mj059AEy8gxhy1wrO3CIzg8cO895VnL8Zo_P/ts
-#EXTINF:-1 xui-id="287765" tvg-id="" tvg-name="Bein Sport 1 FHD" tvg-logo="" group-title="Indonesia",Bein Sport 1 FHD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaChivWjNx4JcyyKB5tQPTg26VxO37tlkXXA-jDLKlmgb/ts
-#EXTINF:-1 xui-id="287766" tvg-id="" tvg-name="Bein Sport 2 FHD" tvg-logo="" group-title="Indonesia",Bein Sport 2 FHD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaLAo0q7nGTRM3sR_K53do9LzhVQeEN-zQBFSXozGEfKJ/ts
-#EXTINF:-1 xui-id="28415" tvg-id="BEINS1" tvg-name="VIP BeIN Sports 1" tvg-logo="" group-title="SPORTS",VIP BeIN Sports 1
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaOZjp7aTjH_dDH5BdDJZZk8/ts
-#EXTINF:-1 xui-id="28416" tvg-id="BEINSP2" tvg-name="VIP BeIN Sports 2" tvg-logo="" group-title="SPORTS",VIP BeIN Sports 2
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaDErlaVKvjFU9c00zbjDKUw/ts
-#EXTINF:-1 xui-id="28417" tvg-id="BEINHD3" tvg-name="VIP BeIN Sports 3" tvg-logo="" group-title="SPORTS",VIP BeIN Sports 3
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaERKz4qMJ9SRJtG02Njpv48/ts
-#EXTINF:-1 xui-id="28418" tvg-id="BEINHD6" tvg-name="VIP BeIN Sports 4" tvg-logo="" group-title="SPORTS",VIP BeIN Sports 4
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaPnRYZv9N-W9-9QK48heva4/ts
-#EXTINF:-1 xui-id="28419" tvg-id="BEINHD5" tvg-name="VIP BeIN Sports 5" tvg-logo="" group-title="SPORTS",VIP BeIN Sports 5
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaDu5L1jlLFI2-HKcLxszkcc/ts
-#EXTINF:-1 xui-id="28420" tvg-id="BEINHD6" tvg-name="VIP BeIN Sports 6" tvg-logo="" group-title="SPORTS",VIP BeIN Sports 6
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaFZDcQY4ONvTF7sJg6EP3aY/ts
-#EXTINF:-1 xui-id="28421" tvg-id="BEINHD7" tvg-name="VIP BeIN Sports 7" tvg-logo="" group-title="SPORTS",VIP BeIN Sports 7
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaJVpLihUEL3WcO6sNVfBOqQ/ts
-#EXTINF:-1 xui-id="28422" tvg-id="BEINHD8" tvg-name="VIP BeIN Sports 8" tvg-logo="" group-title="SPORTS",VIP BeIN Sports 8
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaHTD3_Wd1w8-0kRD5rEoO-4/ts
-#EXTINF:-1 xui-id="28423" tvg-id="BEINHD9" tvg-name="VIP BeIN Sports 9" tvg-logo="" group-title="SPORTS",VIP BeIN Sports 9
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaKM3HqPAuswJcH32SMmYgRo/ts
-#EXTINF:-1 xui-id="28424" tvg-id="BEINH10" tvg-name="VIP BeIN Sports 10" tvg-logo="" group-title="SPORTS",VIP BeIN Sports 10
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaO39TEAsJ8QoYgZOrAdpA4c/ts
-#EXTINF:-1 xui-id="28425" tvg-id="" tvg-name="VIP BeIN Sports 11" tvg-logo="" group-title="SPORTS",VIP BeIN Sports 11
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaCf0XmLQzrSd4wO7H21OFyY/ts
-#EXTINF:-1 xui-id="28426" tvg-id="" tvg-name="VIP BeIN Sports 12" tvg-logo="" group-title="SPORTS",VIP BeIN Sports 12
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaFky2gAI84ukfQ04GlMak0E/ts
-#EXTINF:-1 xui-id="28427" tvg-id="" tvg-name="VIP BeIN Sports 13" tvg-logo="" group-title="SPORTS",VIP BeIN Sports 13
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaNwuxwk6HiNR2R0TH48Njus/ts
-#EXTINF:-1 xui-id="28428" tvg-id="BEINC" tvg-name="VIP BeIN Sports USA" tvg-logo="" group-title="SPORTS",VIP BeIN Sports USA
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaE7UsoPAEJ0N-oXBcoELBWc/ts
-#EXTINF:-1 xui-id="14239" tvg-id="BSP1ANZ" tvg-name="beIN Sports 1" tvg-logo="" group-title="United Kingdom",beIN Sports 1
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaEE9N0pk2-CGJmILuvhqrm8/ts
-#EXTINF:-1 xui-id="14248" tvg-id="BEINS10" tvg-name="beIN Sports 10" tvg-logo="" group-title="United Kingdom",beIN Sports 10
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaPudm3i4einAZgyRM5Drpzc/ts
-#EXTINF:-1 xui-id="37893" tvg-id="BSP1ANZ" tvg-name="beIN Sports 11" tvg-logo="" group-title="United Kingdom",beIN Sports 11
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaMJdu4nZkJuAhS7UI_sLY-0/ts
-#EXTINF:-1 xui-id="14249" tvg-id="BSP1ANZ" tvg-name="UK: beIN Sports 12 | HD" tvg-logo="" group-title="United Kingdom",UK: beIN Sports 12 | HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaIFSH8czfb3kGZ7z_Axi5AE/ts
-#EXTINF:-1 xui-id="14240" tvg-id="BSP2ANZ" tvg-name="beIN Sports 2" tvg-logo="" group-title="United Kingdom",beIN Sports 2
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaFW5vVYxxsXD6BBz9R1qnBU/ts
-#EXTINF:-1 xui-id="14241" tvg-id="BSP3ANZ" tvg-name="beIN Sports 3" tvg-logo="" group-title="United Kingdom",beIN Sports 3
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaMwPljp0D0C2KweHhEPnv8Y/ts
-#EXTINF:-1 xui-id="14242" tvg-id="BEINSP4" tvg-name="beIN Sports 4" tvg-logo="" group-title="United Kingdom",beIN Sports 4
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaBBJv8iMdM5RVHNmqNeeQzo/ts
-#EXTINF:-1 xui-id="14243" tvg-id="BEINSP5" tvg-name="beIN Sports 5" tvg-logo="" group-title="United Kingdom",beIN Sports 5
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaEuYHwvBYbnB54NrEEAYwHE/ts
-#EXTINF:-1 xui-id="14244" tvg-id="BEINSP6" tvg-name="beIN Sports 6" tvg-logo="" group-title="United Kingdom",beIN Sports 6
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaLsv3TCMenZKZSiGCW5O550/ts
-#EXTINF:-1 xui-id="14245" tvg-id="BEINSP7" tvg-name="beIN Sports 7" tvg-logo="" group-title="United Kingdom",beIN Sports 7
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaKXxyGG24PdhPBewCFH7Pio/ts
-#EXTINF:-1 xui-id="14246" tvg-id="BEINSP8" tvg-name="beIN Sports 8" tvg-logo="" group-title="United Kingdom",beIN Sports 8
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaOVQk7DbuVHOySfwrpNy0dk/ts
-#EXTINF:-1 xui-id="14247" tvg-id="BEINSP9" tvg-name="beIN Sports 9" tvg-logo="" group-title="United Kingdom",beIN Sports 9
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaA4F4iGdBGmnRN_dYyftGKI/ts
-#EXTINF:-1 xui-id="14250" tvg-id="" tvg-name="beIN Sports En Espanyol" tvg-logo="" group-title="United Kingdom",beIN Sports En Espanyol
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaDm4CCJHyU2b3kXujmQLvvk/ts
-#EXTINF:-1 xui-id="14251" tvg-id="" tvg-name="beIN Sports La Liga" tvg-logo="" group-title="United Kingdom",beIN Sports La Liga
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaG3CuWILSqjpW3rN3F79zaQ/ts
-#EXTINF:-1 xui-id="14238" tvg-id="" tvg-name="beIN Sports USA" tvg-logo="" group-title="United Kingdom",beIN Sports USA
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaLU8-nnz4tsaAMx4daES-uY/ts
-#EXTINF:-1 xui-id="32582" tvg-id="BSP1ANZ" tvg-name="VIP US: beIN Sports 01" tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTYzOTA5MjYzOTk4MDY4NTYx/bein-logo.png" group-title="US SPORTS",VIP US: beIN Sports 01
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaMn0Q3NjHPOxVaMetp5KjuE/ts
-#EXTINF:-1 xui-id="32583" tvg-id="BSP2ANZ" tvg-name="VIP US: beIN Sports 02" tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTYzOTA5MjYzOTk4MDY4NTYx/bein-logo.png" group-title="US SPORTS",VIP US: beIN Sports 02
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaGk8PrnHYC-p0QhsHmUmU9k/ts
-#EXTINF:-1 xui-id="32584" tvg-id="BSP3ANZ" tvg-name="VIP US: beIN Sports 03" tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTYzOTA5MjYzOTk4MDY4NTYx/bein-logo.png" group-title="US SPORTS",VIP US: beIN Sports 03
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaPfO5a4dRHnqv8m4s64sjlk/ts
-#EXTINF:-1 xui-id="32585" tvg-id="BEINSP4" tvg-name="VIP US: beIN Sports 04" tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTYzOTA5MjYzOTk4MDY4NTYx/bein-logo.png" group-title="US SPORTS",VIP US: beIN Sports 04
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaFlLsXReR6YKAGzqWBizr_Y/ts
-#EXTINF:-1 xui-id="32586" tvg-id="BEINSP5" tvg-name="VIP US: beIN Sports 05" tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTYzOTA5MjYzOTk4MDY4NTYx/bein-logo.png" group-title="US SPORTS",VIP US: beIN Sports 05
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaCtCzxrHHJHnt8NwWAto-Kg/ts
-#EXTINF:-1 xui-id="32587" tvg-id="BEINSP6" tvg-name="VIP US: beIN Sports 06" tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTYzOTA5MjYzOTk4MDY4NTYx/bein-logo.png" group-title="US SPORTS",VIP US: beIN Sports 06
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaG6wd3jr08ik5o7Omi3hqIY/ts
-#EXTINF:-1 xui-id="32588" tvg-id="BEINSP7" tvg-name="VIP US: beIN Sports 07" tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTYzOTA5MjYzOTk4MDY4NTYx/bein-logo.png" group-title="US SPORTS",VIP US: beIN Sports 07
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaD0HPCE8DfpPIYFRtAodGL0/ts
-#EXTINF:-1 xui-id="32589" tvg-id="BEINSP8" tvg-name="VIP US: beIN Sports 08" tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTYzOTA5MjYzOTk4MDY4NTYx/bein-logo.png" group-title="US SPORTS",VIP US: beIN Sports 08
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaA2UIoQSWVZo4uSvIZIct1M/ts
-#EXTINF:-1 xui-id="32590" tvg-id="BEINSP9" tvg-name="US: beIN Sports 09" tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTYzOTA5MjYzOTk4MDY4NTYx/bein-logo.png" group-title="US SPORTS",US: beIN Sports 09
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaPiaY7s45Wl-X4G_xVMgogw/ts
-#EXTINF:-1 xui-id="32591" tvg-id="BEINS10" tvg-name="VIP US: beIN Sports 10" tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTYzOTA5MjYzOTk4MDY4NTYx/bein-logo.png" group-title="US SPORTS",VIP US: beIN Sports 10
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaJTA_QngUaqAtPIOdJZdn4c/ts
-#EXTINF:-1 xui-id="32592" tvg-id="BSP1ANZ" tvg-name="VIP US: beIN Sports 11" tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTYzOTA5MjYzOTk4MDY4NTYx/bein-logo.png" group-title="US SPORTS",VIP US: beIN Sports 11
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaMuo6v_3Vwo9fSoHRTXQVlo/ts
-#EXTINF:-1 xui-id="32593" tvg-id="BSP1ANZ" tvg-name="VIP US: beIN Sports 12" tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTYzOTA5MjYzOTk4MDY4NTYx/bein-logo.png" group-title="US SPORTS",VIP US: beIN Sports 12
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaMTLNami-keBm_BvEwC7vfQ/ts
-#EXTINF:-1 xui-id="32594" tvg-id="BSP1ANZ" tvg-name="VIP US: beIN Sports 13" tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTYzOTA5MjYzOTk4MDY4NTYx/bein-logo.png" group-title="US SPORTS",VIP US: beIN Sports 13
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaB1M52K3GR_wKuv8HQ-lezU/ts
-#EXTINF:-1 xui-id="32595" tvg-id="" tvg-name="beIN Sports N Espanol" tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTYzOTA5MjYzOTk4MDY4NTYx/bein-logo.png" group-title="US SPORTS",beIN Sports N Espanol
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaIxPU5yaCkyD0xUXsfqarnU/ts
-#EXTINF:-1 xui-id="32596" tvg-id="" tvg-name="Bein Sports USA HD" tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTYzOTA5MjYzOTk4MDY4NTYx/bein-logo.png" group-title="US SPORTS",Bein Sports USA HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaB-SuMpUaMyz6RZFc5HN8YM/ts
-#EXTINF:-1 xui-id="286927" tvg-id="" tvg-name="US: BeIN SPORTS LA LIGA" tvg-logo="" group-title="US SPORTS",US: BeIN SPORTS LA LIGA
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaBA8likFuC0JNmJSSaEgG5FygIo7TeWsBWz68Ekzvu-z/ts
-#EXTINF:-1 xui-id="30870" tvg-id="BEINS1" tvg-name="CA: beIN Sports" tvg-logo="" group-title="Canada",CA: beIN Sports
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaG3pACD3WLN874fV7c8pBdE/ts
-#EXTINF:-1 xui-id="68020" tvg-id="BEINS1" tvg-name="CA: BEIN SPORTS" tvg-logo="https://banner2.cleanpng.com/20180702/tef/kisspng-cable-television-canada-brand-wapatv-5b3af1f5c34b41.5893795415305896857999.jpg" group-title="Canada",CA: BEIN SPORTS
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaMWRlv5NAX9_I4MZcjCa8Fk/ts
-#EXTINF:-1 xui-id="30642" tvg-id="" tvg-name="ES | BEIN LaLiga 1 (Backup)" tvg-logo="https://imgur.com/OSKBv6W.png" group-title="Spain",ES | BEIN LaLiga 1 (Backup)
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaEBJdM5ZuQEZ-ur1dqjtPuE/ts
-#EXTINF:-1 xui-id="30644" tvg-id="LALIGA3" tvg-name="ES | BEIN LALIGA 3 HD" tvg-logo="http://links.iptvlogin.com:80/images/a18a82f5236f08fb1ec4e2c6b3effeef.png" group-title="Spain",ES | BEIN LALIGA 3 HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaKhPpzDGeWDSSqWWpLT4U68/ts
-#EXTINF:-1 xui-id="30645" tvg-id="LALIGA2" tvg-name="ES | BEIN LALIGA 2" tvg-logo="https://imgur.com/W7dsOtZ.png" group-title="Spain",ES | BEIN LALIGA 2
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaMjl1ymuAVGd3JT0icfRPMA/ts
-#EXTINF:-1 xui-id="215328" tvg-id="BSP1ANZ" tvg-name="ES: beIN Sports HD" tvg-logo="" group-title="Spain",ES: beIN Sports HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaE1K2BPxQY41cJvBMgLm9FEsq-WFeWo7IqraB-KEoVFq/ts
-#EXTINF:-1 xui-id="215329" tvg-id="" tvg-name="ES: beIN Sports LaLiga HD" tvg-logo="" group-title="Spain",ES: beIN Sports LaLiga HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaB2YaVAdFRTDF4bGoZ2WNz-P3KvIkeZ3j7LBgWc25D8h/ts
-#EXTINF:-1 xui-id="215330" tvg-id="BSP1ANZ" tvg-name="ES: beIN Sports Ñ HD" tvg-logo="" group-title="Spain",ES: beIN Sports Ñ HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaMj4Ti_qIAp6QHCLf-RGkIo2VJE7QNMBkmDOCqOv1bpH/ts
-#EXTINF:-1 xui-id="286463" tvg-id="" tvg-name="PH: BEIN SPORTS 1 | SD" tvg-logo="https://live.staticflickr.com/1858/43745799925_4554bb2780_t.jpg" group-title="Philippines",PH: BEIN SPORTS 1 | SD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaIXy54_gimnjjLxo_HIpSvjDJivxlzX4ILOcMwz-SPiR/ts
-#EXTINF:-1 xui-id="286464" tvg-id="" tvg-name="PH: BEIN SPORTS 2 | SD" tvg-logo="https://i.ibb.co/344t06g/bein-sportjpg.jpg" group-title="Philippines",PH: BEIN SPORTS 2 | SD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaPFkgyvsj2GPLWdXcE_FXqIU7Y0ZAjH9KPaB9u49Q_lS/ts
-#EXTINF:-1 xui-id="17022" tvg-id="BSP1ANZ" tvg-name="AR: BEIN SPORTS 1" tvg-logo="" group-title="Arabic",AR: BEIN SPORTS 1
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaL_7FlJQ0uerO0AHqNJuhlE/ts
-#EXTINF:-1 xui-id="17023" tvg-id="BSP2ANZ" tvg-name="AR: BEIN SPORTS 2" tvg-logo="" group-title="Arabic",AR: BEIN SPORTS 2
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaPgtf28-QaQP26k9EZyfqK0/ts
-#EXTINF:-1 xui-id="17024" tvg-id="BSP3ANZ" tvg-name="AR: BEIN SPORTS 3" tvg-logo="" group-title="Arabic",AR: BEIN SPORTS 3
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaNX6DdYPZEtQCLCIu73KGDA/ts
-#EXTINF:-1 xui-id="17025" tvg-id="BEINSP4" tvg-name="AR: BEIN SPORTS 4" tvg-logo="" group-title="Arabic",AR: BEIN SPORTS 4
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaO27QopjlUUAzZvVo0sOs9E/ts
-#EXTINF:-1 xui-id="17026" tvg-id="BEINSP5" tvg-name="AR: BEIN SPORTS 5" tvg-logo="" group-title="Arabic",AR: BEIN SPORTS 5
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaB1UG3KlaBhbjuyjcmaAHMw/ts
-#EXTINF:-1 xui-id="17027" tvg-id="BEINSP6" tvg-name="AR: BEIN SPORTS 6" tvg-logo="" group-title="Arabic",AR: BEIN SPORTS 6
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaHVkMMFvFifC_CDuTzYxHYw/ts
-#EXTINF:-1 xui-id="17028" tvg-id="BEINSP7" tvg-name="AR: BEIN SPORTS 7" tvg-logo="" group-title="Arabic",AR: BEIN SPORTS 7
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaFPdMCx2xIs04kZzePwCBlc/ts
-#EXTINF:-1 xui-id="17029" tvg-id="BEINSP8" tvg-name="AR: BEIN SPORTS 8" tvg-logo="" group-title="Arabic",AR: BEIN SPORTS 8
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaC2TdACrIeck1O91_ciz6K0/ts
-#EXTINF:-1 xui-id="17030" tvg-id="BEINSP9" tvg-name="AR: BEIN SPORTS 9" tvg-logo="" group-title="Arabic",AR: BEIN SPORTS 9
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaAyt-PQiiynkv3fBqAJ2GPY/ts
-#EXTINF:-1 xui-id="17031" tvg-id="BEINS10" tvg-name="AR: BEIN SPORTS 10" tvg-logo="" group-title="Arabic",AR: BEIN SPORTS 10
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaFwlzQ0qhuKDS5NxbNaW4nI/ts
-#EXTINF:-1 xui-id="17032" tvg-id="BSP1ANZ" tvg-name="AR: BEIN SPORTS 11" tvg-logo="" group-title="Arabic",AR: BEIN SPORTS 11
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaHICGnCungPlfUv18cXrJ8c/ts
-#EXTINF:-1 xui-id="17033" tvg-id="BSP1ANZ" tvg-name="AR: BEIN SPORTS 12" tvg-logo="" group-title="Arabic",AR: BEIN SPORTS 12
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaMQujUr21te9BoaLY8vYOWk/ts
-#EXTINF:-1 xui-id="37848" tvg-id="" tvg-name="Bein Movies Family 4 HD" tvg-logo="http://62.210.187.144:88/be_in_tr_movies_family_hd.png" group-title="Arabic",Bein Movies Family 4 HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaCScPZwPdfevQvZ1ylaHCxA/ts
-#EXTINF:-1 xui-id="37849" tvg-id="" tvg-name="beIN Series 1 HD" tvg-logo="" group-title="Arabic",beIN Series 1 HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaA53QGGdd1F5iT1GzHCkspQ/ts
-#EXTINF:-1 xui-id="37850" tvg-id="" tvg-name="beIN FATAFEAT HD" tvg-logo="" group-title="Arabic",beIN FATAFEAT HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaGoEAjvJii7RL2Fzg4ASjCo/ts
-#EXTINF:-1 xui-id="37851" tvg-id="" tvg-name="beIN Series 2 HD" tvg-logo="http://62.210.187.144:88/bein-series-hd2-qa.png" group-title="Arabic",beIN Series 2 HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaJHKupOsugx04zbhYq7pjQQ/ts
-#EXTINF:-1 xui-id="37852" tvg-id="" tvg-name="BEIN BOXOFFICE 1" tvg-logo="http://62.210.187.144:88/be_in_tr_box_office_01_hd.png" group-title="Arabic",BEIN BOXOFFICE 1
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaM4S_RBy1EYKxgwZw1x9wUI/ts
-#EXTINF:-1 xui-id="37853" tvg-id="" tvg-name="BEIN BOXOFFICE 2" tvg-logo="http://62.210.187.144:88/be_in_tr_box_office_02_hd.png" group-title="Arabic",BEIN BOXOFFICE 2
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaFyZjVMz1_3oOe-ddEChM24/ts
-#EXTINF:-1 xui-id="37854" tvg-id="" tvg-name="BEIN BOXOFFICE 3" tvg-logo="http://62.210.187.144:88/be_in_tr_box_office_03_hd.png" group-title="Arabic",BEIN BOXOFFICE 3
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaE_ilYmzlpwkGcr_YxiD6mo/ts
-#EXTINF:-1 xui-id="37855" tvg-id="" tvg-name="Bein Movies Premiere 1+ HD" tvg-logo="" group-title="Arabic",Bein Movies Premiere 1+ HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaHy9cuJT4TZlYtiJDieceE0/ts
-#EXTINF:-1 xui-id="37856" tvg-id="beinmoviesaction2.tr" tvg-name="Bein Movies Action 2+ HD" tvg-logo="http://62.210.187.144:88/be_in_tr_movies_action_02_hd.png" group-title="Arabic",Bein Movies Action 2+ HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaPdO66D-A9iL62ahRrZJQwE/ts
-#EXTINF:-1 xui-id="37857" tvg-id="" tvg-name="BEIN DRAMA" tvg-logo="http://62.210.187.144:88/bein-drama-hd1-qa.png" group-title="Arabic",BEIN DRAMA
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaJ2jXU5Fy26q2MVlICZ8ykQ/ts
-#EXTINF:-1 xui-id="37858" tvg-id="" tvg-name="beIN DKIDS" tvg-logo="" group-title="Arabic",beIN DKIDS
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaI7jT5Rq-QQLTU_VL7U2KA8/ts
-#EXTINF:-1 xui-id="37859" tvg-id="" tvg-name="beIN FOX ACTION MOVIE" tvg-logo="" group-title="Arabic",beIN FOX ACTION MOVIE
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaIlJ2xrDn9ly1GBGCjmBOGE/ts
-#EXTINF:-1 xui-id="37860" tvg-id="" tvg-name="beIN FAMILY MOVIES HD" tvg-logo="http://62.210.187.144:88/be_in_tr_movies_family_hd.png" group-title="Arabic",beIN FAMILY MOVIES HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaKU9fzbaqo5LaM9NSQx_gEU/ts
-#EXTINF:-1 xui-id="17036" tvg-id="" tvg-name="AR_beIN SERIES HD" tvg-logo="" group-title="Arabic",AR_beIN SERIES HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaE2IEdeYx1BUg5eIgIuKOuQ/ts
-#EXTINF:-1 xui-id="17040" tvg-id="" tvg-name="AR: BEIN MOVIES 1" tvg-logo="" group-title="Arabic",AR: BEIN MOVIES 1
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaLUvgN2m4Ht6DqAsPKZ7TNY/ts
-#EXTINF:-1 xui-id="17041" tvg-id="" tvg-name="AR: BEIN MOVIES 2" tvg-logo="" group-title="Arabic",AR: BEIN MOVIES 2
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaHoM1BA5NZrdH7vBWn2IMNM/ts
-#EXTINF:-1 xui-id="17042" tvg-id="" tvg-name="AR: BEIN MOVIES 3" tvg-logo="" group-title="Arabic",AR: BEIN MOVIES 3
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaIJORZYkOnZ5hpl_Ew7SQcI/ts
-#EXTINF:-1 xui-id="17043" tvg-id="" tvg-name="AR: BEIN MOVIES 4" tvg-logo="" group-title="Arabic",AR: BEIN MOVIES 4
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaDlPVDggE1oEwPMzwGCCxBk/ts
-#EXTINF:-1 xui-id="3697" tvg-id="BSP1ANZ" tvg-name="BEIN SPORTS 1 FHD" tvg-logo="" group-title="FR SPORT",BEIN SPORTS 1 FHD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaPVG1QSrkFGFRGqWA7oE_3k/ts
-#EXTINF:-1 xui-id="3698" tvg-id="BSP2ANZ" tvg-name="BEIN SPORTS 2 FHD" tvg-logo="" group-title="FR SPORT",BEIN SPORTS 2 FHD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaCOaJIqnB1aKy3PZjR-6-u4/ts
-#EXTINF:-1 xui-id="3699" tvg-id="BSP3ANZ" tvg-name="BEIN SPORTS 3 FHD" tvg-logo="" group-title="FR SPORT",BEIN SPORTS 3 FHD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaII_hVvn17fvcMHXm-yuvwM/ts
-#EXTINF:-1 xui-id="3700" tvg-id="BSP1ANZ" tvg-name="BeIN Sports 1" tvg-logo="" group-title="FR SPORT",BeIN Sports 1
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaB4Mo5tnKn4WSC_hhGGC198/ts
-#EXTINF:-1 xui-id="3701" tvg-id="BSP2ANZ" tvg-name="BeIN Sports 2" tvg-logo="" group-title="FR SPORT",BeIN Sports 2
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaIvkBQk9f5AWqFSBJqXOPx4/ts
-#EXTINF:-1 xui-id="3702" tvg-id="BSP3ANZ" tvg-name="BeIN Sports 3" tvg-logo="" group-title="FR SPORT",BeIN Sports 3
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaDWOituyNjTCxN335rE4nKU/ts
-#EXTINF:-1 xui-id="3703" tvg-id="BEINMX4" tvg-name="BeIN Sports MAX 4" tvg-logo="" group-title="FR SPORT",BeIN Sports MAX 4
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaInXRMHfaYKxhRb4_E01TpU/ts
-#EXTINF:-1 xui-id="3704" tvg-id="BEIN5" tvg-name="BeIN Sports MAX 5" tvg-logo="" group-title="FR SPORT",BeIN Sports MAX 5
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaO725ImcfylcwCLX0GS6Uds/ts
-#EXTINF:-1 xui-id="3705" tvg-id="BEIN6" tvg-name="BeIN Sports MAX 6" tvg-logo="" group-title="FR SPORT",BeIN Sports MAX 6
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaCqPhLvlq4Facdp7XrHX7Lw/ts
-#EXTINF:-1 xui-id="3706" tvg-id="BEIN7" tvg-name="BeIN Sports MAX 7" tvg-logo="" group-title="FR SPORT",BeIN Sports MAX 7
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaJ-UcCZa1SKl7xmwTThwTI8/ts
-#EXTINF:-1 xui-id="3707" tvg-id="BEIN8" tvg-name="BeIN Sports MAX 8" tvg-logo="" group-title="FR SPORT",BeIN Sports MAX 8
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaNEvdQdN__ZHGxHfHSMdY1Y/ts
-#EXTINF:-1 xui-id="3708" tvg-id="BEIN9" tvg-name="BeIN Sports MAX 9" tvg-logo="" group-title="FR SPORT",BeIN Sports MAX 9
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaGtsQnkMhiJ6r8KZrzMe0d8/ts
-#EXTINF:-1 xui-id="3709" tvg-id="BEIN10" tvg-name="BeIN Sports MAX 10" tvg-logo="" group-title="FR SPORT",BeIN Sports MAX 10
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaEGmDiYzy2DOgWzzOrjDdGc/ts
-#EXTINF:-1 xui-id="297629" tvg-id="" tvg-name="SP: BEIN Sports N (MOVIL)" tvg-logo="" group-title="Spain",SP: BEIN Sports N (MOVIL)
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaDzD4Zd_l99NG8jBhmvUz7IgfZUI1BIFvllrJRqaUZMO/ts
-#EXTINF:-1 xui-id="297630" tvg-id="" tvg-name="SP: BEIN Sports N" tvg-logo="" group-title="Spain",SP: BEIN Sports N
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaCXIjrpuDl6F9UuPKJ_8NvKMWbvB2yUCuu_jZt1uaVQl/ts
-#EXTINF:-1 xui-id="297631" tvg-id="" tvg-name="SP: BEIN Sports N FHD" tvg-logo="" group-title="Spain",SP: BEIN Sports N FHD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaBbsC2R9RN-axLkc4bKbnJdCJMm1CWuDAthYge6E4IRd/ts
-#EXTINF:-1 xui-id="214297" tvg-id="" tvg-name="*--- OSN BEIN ---*" tvg-logo="" group-title="OSN & BeIN",*--- OSN BEIN ---*
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaDs5R3N8zutH95oWnJToveMYVMqXxpRbqOtllc_5_h5F/ts
-#EXTINF:-1 xui-id="210650" tvg-id="" tvg-name="Bein Movies Premiere HD" tvg-logo="https://www.tvyayinakisi.com/storage/logos/Cu6qo1896GSYBYYIoykAwWEbWXNj9X5SY1mPm9bV.png" group-title="OSN & BeIN",Bein Movies Premiere HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaA6BA6rWezyEPJBI1ef27RbojJmB6Y8sNI_XQgs6ua7e/ts
-#EXTINF:-1 xui-id="210652" tvg-id="" tvg-name="BEIN FOX FAMILY MOVIES HD" tvg-logo="https://sekdrive.net/wp-content/uploads/2018/08/Fox-Family-Movies-HD-ARB.png" group-title="OSN & BeIN",BEIN FOX FAMILY MOVIES HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaK5AzJjVvv6DtJtNgSfmPG2AV69IH839iY4YNCvkRw1c/ts
-#EXTINF:-1 xui-id="210653" tvg-id="" tvg-name="Bein Movies Drama HD" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1324_1.png" group-title="OSN & BeIN",Bein Movies Drama HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaOH26kuZXFB1oJojDRDhtWinxHkAKC73FdkbsSazQXDw/ts
-#EXTINF:-1 xui-id="210654" tvg-id="" tvg-name="beIN Series 1 HD" tvg-logo="" group-title="OSN & BeIN",beIN Series 1 HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaFbGrlu00aqFYlGmQIFneZtgrIwY_IP31ECqJ1zpMpyK/ts
-#EXTINF:-1 xui-id="210655" tvg-id="" tvg-name="beIN Series 2 HD" tvg-logo="https://www.bein.net/en/wp-content/uploads/sites/3/2017/05/SeriesHD2@2x.png" group-title="OSN & BeIN",beIN Series 2 HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaNrUiSar_cjU_pxOWOfSgLzxFDE4-xCPVMNPaFJLtBPz/ts
-#EXTINF:-1 xui-id="210656" tvg-id="" tvg-name="Bein CN Arabia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png" group-title="OSN & BeIN",Bein CN Arabia
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaKMpbONhnHxEYwKwMgxP9ZWbWIcmaBwEFNvu3NL1E7dJ/ts
-#EXTINF:-1 xui-id="210657" tvg-id="" tvg-name="beIN AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png" group-title="OSN & BeIN",beIN AMC
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaGQRSPwxFAHUh7BBecGmwY4Na6IFZDwCE7scFVxPCwnl/ts
-#EXTINF:-1 xui-id="210658" tvg-id="" tvg-name="Bein Gourmet HD" tvg-logo="https://cne-eg.com/uploads/logos/20183175521422.png" group-title="OSN & BeIN",Bein Gourmet HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaJUNwAmQVeR6QCjevBP5QDAkL8_vq5FNWkhvWK82rGjd/ts
-#EXTINF:-1 xui-id="210659" tvg-id="" tvg-name="beIN FATAFEAT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Fatafeat_Logo_Final.jpg" group-title="OSN & BeIN",beIN FATAFEAT HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaAr7UmQoGATwiX33OTJBLde2yvyLQkgU60KipaJF0aPc/ts
-#EXTINF:-1 xui-id="210660" tvg-id="" tvg-name="Bein Jeem HD" tvg-logo="https://www.jeemtv.net/bundles/jeemmain/facebook_thumbs/jeemtv_logo.jpeg" group-title="OSN & BeIN",Bein Jeem HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaMR4JWQsM6jNIvFypzubax03WR5JSkwTbNleWrAGJ1OW/ts
-#EXTINF:-1 xui-id="210661" tvg-id="" tvg-name="bein Dreamwork" tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2016/07/DW_Stacked_boy_moon_only-blue.jpg" group-title="OSN & BeIN",bein Dreamwork
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaMUffaKwfwJMmBPH7jBTafrZJnNH61rv52lfaHRn_w6J/ts
-#EXTINF:-1 xui-id="210662" tvg-id="" tvg-name="BEIN BOXOFFICE 1" tvg-logo="https://www.tvyayinakisi.com/storage/logos/jXE6c2H2pN4Bdq4nYlwf3acvvgSpc86dR5OtgL7Q.jpeg" group-title="OSN & BeIN",BEIN BOXOFFICE 1
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaB9ynSwP_Siczhos5lSY7gUDlJNluhEbQhiTf0gPhm78/ts
-#EXTINF:-1 xui-id="210664" tvg-id="" tvg-name="BEIN BOXOFFICE" tvg-logo="https://www.tvyayinakisi.com/storage/logos/nIdQn1tTugPonjSQSUkfQwd8GX4ZWyHa2Incv2s8.png" group-title="OSN & BeIN",BEIN BOXOFFICE
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaPNCH9wBPfUt1Nmnlb7dYzpJk0QkqvjyM8KZ5nB9A_Ya/ts
-#EXTINF:-1 xui-id="210665" tvg-id="" tvg-name="beIN Fox Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="OSN & BeIN",beIN Fox Movies
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaMnC_ny4bbk6CDjWKkU-UeUCGgf04HHFFKuKs9jNG5nT/ts
-#EXTINF:-1 xui-id="210667" tvg-id="beinmoviesaction.tr" tvg-name="Bein Movies Action HD" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1323_1.png" group-title="OSN & BeIN",Bein Movies Action HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaK4sCc_nj3uYibffYFMaHO4cZOE-7SeSVJQEorcZaTZQ/ts
-#EXTINF:-1 xui-id="210669" tvg-id="" tvg-name="Bein  Boomerang HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="OSN & BeIN",Bein  Boomerang HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaOrM5NHG1of4BiLHNJ_2w3qhIkiPBUmGWEW8U_A41ZPK/ts
-#EXTINF:-1 xui-id="210670" tvg-id="" tvg-name="beIN Food Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="OSN & BeIN",beIN Food Network HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaEgy07IACB-4adwO0ReMCg7RaRg5LrIbUFRGAFmuPvu0/ts
-#EXTINF:-1 xui-id="210671" tvg-id="" tvg-name="beIN FAMILY MOVIES HD" tvg-logo="https://2.bp.blogspot.com/-HuWFc0avBSk/WuEnf8uErxI/AAAAAAAAaU8/1PC7vrF6Wn4yILbaqzQMu1PeyW2YfntjgCLcBGAs/s1600/MoviesHD4.png" group-title="OSN & BeIN",beIN FAMILY MOVIES HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaPz2IuRXLCjiRFSZwI7MHjqKGfuAKFeeX6ih5DNUq9rV/ts
-#EXTINF:-1 xui-id="210674" tvg-id="" tvg-name="beIN DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="OSN & BeIN",beIN DMAX
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaP8lJaRuzyVBtcRob7XKOqgF_qTGefno0TmwZcJz2flF/ts
-#EXTINF:-1 xui-id="210676" tvg-id="" tvg-name="BEIN HG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1280px-HGTV_US_Logo_2015.svg.png" group-title="OSN & BeIN",BEIN HG TV
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaIn-GNugQJiSFvfjgBZQznkmrd3kj1n-iGLHuSOUhBVb/ts
-#EXTINF:-1 xui-id="210677" tvg-id="" tvg-name="beIN D-LIFE" tvg-logo="https://www.cablevision.com.lb/Content/uploads/Channel/2668_dlife.jpg" group-title="OSN & BeIN",beIN D-LIFE
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaJ9yD9eiWJTC0hCgAe880tDzgk7ThumEdJHkb-D5_Jy5/ts
-#EXTINF:-1 xui-id="210678" tvg-id="" tvg-name="beIN BE JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/The_logo_of_be_junior_TV_Channel.png" group-title="OSN & BeIN",beIN BE JUNIOR
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaAqj8_vQ4Ii8rPGG4KLdD-PWEegcW6ZY_I7Xfk6KtMPJ/ts
-#EXTINF:-1 xui-id="210679" tvg-id="" tvg-name="beIN CBC REALLITY" tvg-logo="https://home.pilsfree.cz/martin63/PilsFree%20IPTV/Kodi/Loga/CBS%20Reality.png" group-title="OSN & BeIN",beIN CBC REALLITY
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaC7ZpPxcEGzV-wVqbmRx9y4I0oNcGAuTIfPGEixeif5d/ts
-#EXTINF:-1 xui-id="210680" tvg-id="" tvg-name="beIN BBC Arabic" tvg-logo="https://www.albawaba.com/sites/default/files/styles/de2e_standard/public/im/Entertainment_English_2017/BBC_Arabic_Boutros_-_BBC.jpg?itok=acQf-JWl" group-title="OSN & BeIN",beIN BBC Arabic
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaAkwqpghM0gNnTiLehfK3SGuAFfZMwkjvlgqU_1SW2Kk/ts
-#EXTINF:-1 xui-id="210681" tvg-id="" tvg-name="BEIN OUTDOOR" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/b/b4/Outdoor_Channel_%282017-.n.v.%29.png/revision/latest?cb=20180304114956" group-title="OSN & BeIN",BEIN OUTDOOR
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaOHw5wrKSK_edJHoarDYLicBwKGg0CshcRIAGHCzpo2U/ts
-#EXTINF:-1 xui-id="210682" tvg-id="" tvg-name="BEIN Baraeem HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Baraem_new_logo.png" group-title="OSN & BeIN",BEIN Baraeem HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaLkdHsaSNLjJ4jCpzVsh75UAWHCHUbyiwJo-kebTiQgl/ts
-#EXTINF:-1 xui-id="210683" tvg-id="" tvg-name="BEIN DRAMA" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1309_1.png" group-title="OSN & BeIN",BEIN DRAMA
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaPTMt0hXES7KdEOlT8YfsmyRdM9pxHF2nybpBibrS32h/ts
-#EXTINF:-1 xui-id="210684" tvg-id="" tvg-name="beIN SPORT NEWS" tvg-logo="http://links.iptvlogin.com/img/beinsportnews.png" group-title="OSN & BeIN",beIN SPORT NEWS
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaPuDFF7GS5OkkZHcC5flbWeg9s6fmN5mjC4ery_UV7hK/ts
-#EXTINF:-1 xui-id="210699" tvg-id="" tvg-name="beIN SPORT 01 FHD" tvg-logo="http://links.iptvlogin.com/img/beinsportshd1.png" group-title="OSN & BeIN",beIN SPORT 01 FHD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaAnkk7QsCHCUfXf18DRjHcGsQ141lwjjDb1wPeRc0uB5/ts
-#EXTINF:-1 xui-id="210700" tvg-id="" tvg-name="beIN SPORT 02 FHD" tvg-logo="http://links.iptvlogin.com/img/beinsportshd2.png" group-title="OSN & BeIN",beIN SPORT 02 FHD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaCGkYYNMdwUoMRIrrQVkuRK5rN-iYbgAyscPenv38XZ8/ts
-#EXTINF:-1 xui-id="210701" tvg-id="" tvg-name="beIN SPORT 03 FHD" tvg-logo="http://links.iptvlogin.com/img/beinsportshd3.png" group-title="OSN & BeIN",beIN SPORT 03 FHD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaMMD34B6Q90daSlZhQsaFvOMEa5xE-lu9P_LFu0weH4f/ts
-#EXTINF:-1 xui-id="210702" tvg-id="" tvg-name="beIN SPORT 04 FHD" tvg-logo="http://links.iptvlogin.com/img/beinsportshd4.png" group-title="OSN & BeIN",beIN SPORT 04 FHD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaATXYxjjyKvXN-VAfjJBCE9-KjA5vLFJ8k59mo7rCYuu/ts
-#EXTINF:-1 xui-id="210703" tvg-id="" tvg-name="beIN SPORT 05 FHD" tvg-logo="http://links.iptvlogin.com/img/beinsportshd5.png" group-title="OSN & BeIN",beIN SPORT 05 FHD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaNakGJB73GI-XdWhixLawIJxIk-RJzJUPENAqVxcLLwS/ts
-#EXTINF:-1 xui-id="210704" tvg-id="" tvg-name="beIN SPORT 06 FHD" tvg-logo="http://links.iptvlogin.com/img/beinsportshd6.png" group-title="OSN & BeIN",beIN SPORT 06 FHD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaAIRiuC3Wdb8oNlhl4W8H_IO4_EWbZiSs5t1du19KfJw/ts
-#EXTINF:-1 xui-id="210705" tvg-id="" tvg-name="beIN SPORT 07 FHD" tvg-logo="http://links.iptvlogin.com/img/beinsportshd7.png" group-title="OSN & BeIN",beIN SPORT 07 FHD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaK3gDO45zmD2bLZi8WWTU9wa_L-UDRqp5mDvRidY1NTn/ts
-#EXTINF:-1 xui-id="210706" tvg-id="" tvg-name="beIN SPORT 08 FHD" tvg-logo="http://links.iptvlogin.com/img/beinsportshd8.png" group-title="OSN & BeIN",beIN SPORT 08 FHD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaCGBi6wC9gRL3RTEGOyYwOZryrbHMVPgj88p0w--yOJn/ts
-#EXTINF:-1 xui-id="210707" tvg-id="" tvg-name="beIN SPORT 09 FHD" tvg-logo="http://links.iptvlogin.com/img/beinsportshd9.png" group-title="OSN & BeIN",beIN SPORT 09 FHD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaAYaWel8SkbEGaixtqUN65R1U-FlsU_gM86HY6m1rGPK/ts
-#EXTINF:-1 xui-id="210708" tvg-id="" tvg-name="beIN SPORT 10 FHD" tvg-logo="http://links.iptvlogin.com/img/beinsportshd10.png" group-title="OSN & BeIN",beIN SPORT 10 FHD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaK6zPLfMHuqZNX92D3IG5MeqMrnW4PAoGiOenKQ2oLt0/ts
-#EXTINF:-1 xui-id="210709" tvg-id="BSP1ANZ" tvg-name="BEIN SPORTS 11 FHD" tvg-logo="http://links.iptvlogin.com/img/beinsportshd11.png" group-title="OSN & BeIN",BEIN SPORTS 11 FHD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaKlVyOtv2NWaRdF0fT029wC5twL3d6FH2dgaz5OLR3u1/ts
-#EXTINF:-1 xui-id="210710" tvg-id="BSP1ANZ" tvg-name="BEIN SPORTS 12 FHD" tvg-logo="http://links.iptvlogin.com/img/beinsportshd12.png" group-title="OSN & BeIN",BEIN SPORTS 12 FHD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaOVpBuUTC17_exK-JH_YwD_Y43j7dIQETUJmpIYlqqYv/ts
-#EXTINF:-1 xui-id="210712" tvg-id="" tvg-name="beIN SPORT 1 HD" tvg-logo="https://www.seekpng.com/png/detail/207-2070268_livvo-bein-sports-gradiant-1hd-bein-sports-logo.png" group-title="OSN & BeIN",beIN SPORT 1 HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaJlJncFIdoLdNc-BFr925xyOZQgb8e894E8wXNAcJCi9/ts
-#EXTINF:-1 xui-id="210713" tvg-id="" tvg-name="beIN SPORT 2 HD" tvg-logo="https://yallabein.com/wp-content/uploads/2018/07/download-1-1.png" group-title="OSN & BeIN",beIN SPORT 2 HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaLmW3LXv9yHjvG6Y_z6hEaIcr5muRZ1Mkmpg-Gz1aLd5/ts
-#EXTINF:-1 xui-id="210714" tvg-id="" tvg-name="beIN SPORT 3 HD" tvg-logo="https://4.bp.blogspot.com/-EpFrHpSAT_I/XM43nrMw0NI/AAAAAAAAJW4/mDqJY7ts8ZMnkwS8jBvVNNzIPjkzXkV-QCLcBGAs/s1600/%25D9%2585%25D8%25B4%25D8%25A7%25D9%2587%25D8%25AF%25D8%25A9%2B%25D9%2582%25D9%2586%25D8%25A7%25D8%25A9%2B%25D8%25A8%25D9%258A%2B%25D8%25A7%25D9%2586%2B%25D8%25B3%25D8%25A8%25D9%2588%25D8%25B1%25D8%25AA%2B3%2B%25D9%2584%25D8%25A7%25D9%258A%25D9%2581%2B%25D9%2585%25D8%25AC%25D8%25A7%25D9%2586%25D8%25A7%2BbeIN%2BSports%2BHD3%2Blive.png" group-title="OSN & BeIN",beIN SPORT 3 HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaMow7CwMzVCBCnpd5fihvXWHhpd1c3YLxzBbDfS9riFq/ts
-#EXTINF:-1 xui-id="210715" tvg-id="" tvg-name="beIN SPORT 4 HD" tvg-logo="https://www.super-kora.tv/cache/14/0a140a1a1b4e3858ffa4a494d632b475.png" group-title="OSN & BeIN",beIN SPORT 4 HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaOUF84H_159IACUo4KW4IdBEb9Kx3gnnVxS9iRfYQDco/ts
-#EXTINF:-1 xui-id="210716" tvg-id="" tvg-name="beIN SPORT 5 HD" tvg-logo="http://links.iptvlogin.com/img/beinsportshd5.png" group-title="OSN & BeIN",beIN SPORT 5 HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaBQyvPZx6affYL3sw1dYhiKACz7YT3iJ63kK8B2F3T4o/ts
-#EXTINF:-1 xui-id="210717" tvg-id="" tvg-name="beIN SPORT 6 HD" tvg-logo="http://links.iptvlogin.com/img/beinsportshd6.png" group-title="OSN & BeIN",beIN SPORT 6 HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaHZTv6XFaDhHL31Lb3nAF3rheTfviVTRWhSdCTnitx2C/ts
-#EXTINF:-1 xui-id="210718" tvg-id="" tvg-name="beIN SPORT 7 HD" tvg-logo="http://links.iptvlogin.com/img/beinsportshd7.png" group-title="OSN & BeIN",beIN SPORT 7 HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaJDaYfqpyoeiIRJ-8x-Dh9ArJTsXLmc25xF4-JS99mFP/ts
-#EXTINF:-1 xui-id="210719" tvg-id="" tvg-name="beIN SPORT 8 HD" tvg-logo="http://links.iptvlogin.com/img/beinsportshd8.png" group-title="OSN & BeIN",beIN SPORT 8 HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaJwr2rCwnj2T973RaKwRzMapIOjpJrpx4gkhbxCJLetB/ts
-#EXTINF:-1 xui-id="210720" tvg-id="" tvg-name="beIN SPORT 9 HD" tvg-logo="http://links.iptvlogin.com/img/beinsportshd9.png" group-title="OSN & BeIN",beIN SPORT 9 HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaOV8ScMKd3Hf9ivywdA2Fr2yRWtQnzwUVTSROTRHpXSG/ts
-#EXTINF:-1 xui-id="210721" tvg-id="" tvg-name="beIN SPORT 10 HD" tvg-logo="http://links.iptvlogin.com/img/beinsportshd10.png" group-title="OSN & BeIN",beIN SPORT 10 HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaA60oZCfeEBZ4iDDuzV81rFUJwSf0n-x1xYDse1Usdhj/ts
-#EXTINF:-1 xui-id="210722" tvg-id="BSP1ANZ" tvg-name="BEIN SPORTS 11 HD" tvg-logo="http://links.iptvlogin.com/img/beinsportshd11.png" group-title="OSN & BeIN",BEIN SPORTS 11 HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaMsKQ8_-890jET4EYPIQUgMpE_FseRtYBTx8WbbQ2GnU/ts
-#EXTINF:-1 xui-id="210723" tvg-id="BSP1ANZ" tvg-name="BEIN SPORTS 12 HD" tvg-logo="http://links.iptvlogin.com/img/beinsportshd12.png" group-title="OSN & BeIN",BEIN SPORTS 12 HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaK25oQlH0DpRXwrFqWKE4ctAsLSdbURmVchNwJjoDbAq/ts
-#EXTINF:-1 xui-id="210724" tvg-id="BSP1ANZ" tvg-name="BEIN SPORTS 1 SD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6589.1491349382.png" group-title="OSN & BeIN",BEIN SPORTS 1 SD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaGVryT6THr6aX3A98-n6BA3cKsUnPIRLWjx74jqFvlJC/ts
-#EXTINF:-1 xui-id="210725" tvg-id="BSP2ANZ" tvg-name="BEIN SPORTS 2 SD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6591.1491350441.png" group-title="OSN & BeIN",BEIN SPORTS 2 SD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaA0GbzJFJxdbLiw-ZE0ppvcSp2Nl2oi41THybdVYEOWG/ts
-#EXTINF:-1 xui-id="210726" tvg-id="BSP3ANZ" tvg-name="BEIN SPORTS 3 SD" tvg-logo="http://links.iptvlogin.com/img/beinsports3.png" group-title="OSN & BeIN",BEIN SPORTS 3 SD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaCXIEpQYHbou0-Hy54P05ddTkyMRoS4jAB1fa6wD9YAu/ts
-#EXTINF:-1 xui-id="210727" tvg-id="BEINSP4" tvg-name="BEIN SPORTS 4 SD" tvg-logo="http://links.iptvlogin.com/img/beinsports4.png" group-title="OSN & BeIN",BEIN SPORTS 4 SD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaPZMzHlxC5w9fzYT12ktCrQEpDasEzZPJwDaOwgG9kWQ/ts
-#EXTINF:-1 xui-id="210728" tvg-id="BEINSP5" tvg-name="BEIN SPORTS 5 SD" tvg-logo="http://links.iptvlogin.com/img/beinsports5.png" group-title="OSN & BeIN",BEIN SPORTS 5 SD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaDV6ZQmx6CROyqS72mX3smj4WqGHz5O7akgDRZPv4AsG/ts
-#EXTINF:-1 xui-id="210729" tvg-id="BEINSP6" tvg-name="BEIN SPORTS 6 SD" tvg-logo="http://links.iptvlogin.com/img/beinsports6.png" group-title="OSN & BeIN",BEIN SPORTS 6 SD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaHAvge_hHCRrm5xRRbqUuC0JwRQ3mq-CKJz8o0_taodo/ts
-#EXTINF:-1 xui-id="210730" tvg-id="BEINSP7" tvg-name="BEIN SPORTS 7 SD" tvg-logo="http://links.iptvlogin.com/img/beinsports7.png" group-title="OSN & BeIN",BEIN SPORTS 7 SD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaE2ak6WW-_V5y0sLvhI_yJSnzCRIE9YSTf9lkh95_kkv/ts
-#EXTINF:-1 xui-id="210731" tvg-id="BEINSP8" tvg-name="BEIN SPORTS 8 SD" tvg-logo="http://links.iptvlogin.com/img/beinsports8.png" group-title="OSN & BeIN",BEIN SPORTS 8 SD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaGZLYdLP1cLZIIPOuU-oDnKoI4vOXgKZBY2lbZVfZJuV/ts
-#EXTINF:-1 xui-id="210732" tvg-id="BEINSP9" tvg-name="BEIN SPORTS 9 SD" tvg-logo="http://links.iptvlogin.com/img/beinsports9.png" group-title="OSN & BeIN",BEIN SPORTS 9 SD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaNY092aQ2QMIUGBBulwXDL51Xh9gMU5KXEaQ1tcXoaO9/ts
-#EXTINF:-1 xui-id="210733" tvg-id="BEINS10" tvg-name="BEIN SPORTS 10 SD" tvg-logo="http://links.iptvlogin.com/img/beinsports10.png" group-title="OSN & BeIN",BEIN SPORTS 10 SD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaHdTs312sDnoB1Hcx--CI1Sjmfb_Y6YnADt5cmbjKMGQ/ts
-#EXTINF:-1 xui-id="298141" tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORT 1 FEED" tvg-logo="" group-title="Turkey",TR: BEIN SPORT 1 FEED
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaM6XDK-2hFLrVnchtu9U1y-sRI63wVQQZoX0xmOr7Feh/ts
-#EXTINF:-1 xui-id="38915" tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORTS 1 MOBIL" tvg-logo="" group-title="Turkey",TR: BEIN SPORTS 1 MOBIL
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaNfmL359sfxiIEkf2UX7aD8/ts
-#EXTINF:-1 xui-id="38916" tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORTS 1 HD (Backup)" tvg-logo="" group-title="Turkey",TR: BEIN SPORTS 1 HD (Backup)
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaK_dPqtL8luUJCxZqWr2xb8/ts
-#EXTINF:-1 xui-id="38917" tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORTS 1 SD ( BACKUP )" tvg-logo="" group-title="Turkey",TR: BEIN SPORTS 1 SD ( BACKUP )
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaJSHe-Dfr7-Zk5dozQC98Bk/ts
-#EXTINF:-1 xui-id="38918" tvg-id="BSP1ANZ" tvg-name="TR: BEIN SPORTS 1 HD" tvg-logo="" group-title="Turkey",TR: BEIN SPORTS 1 HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaHoy3ki73wj1Nc071tklZME/ts
-#EXTINF:-1 xui-id="38919" tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORTS 1 HD ( BACKUP )" tvg-logo="" group-title="Turkey",TR: BEIN SPORTS 1 HD ( BACKUP )
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaMYJ2iAE6HOfk1CiJlcuNOE/ts
-#EXTINF:-1 xui-id="38920" tvg-id="BSP1ANZ" tvg-name="TR: BEIN SPORTS 1 FHD" tvg-logo="" group-title="Turkey",TR: BEIN SPORTS 1 FHD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaMIyadD6TE5cSj8aBl2K2Cg/ts
-#EXTINF:-1 xui-id="38921" tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORTS 1 UHD ( BACKUP )" tvg-logo="" group-title="Turkey",TR: BEIN SPORTS 1 UHD ( BACKUP )
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaLyU8mg6PaHXuGI0cTXiHYs/ts
-#EXTINF:-1 xui-id="38922" tvg-id="beinsports1.tr" tvg-name="TR: BEIN SPORTS 1 UHD" tvg-logo="" group-title="Turkey",TR: BEIN SPORTS 1 UHD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaN4IwQO2NThJmgr0t1ZTl1g/ts
-#EXTINF:-1 xui-id="38923" tvg-id="BSP2ANZ" tvg-name="TR: BEIN SPORTS 2 SD" tvg-logo="" group-title="Turkey",TR: BEIN SPORTS 2 SD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaMZFO2nGszMu1gt68KZb6EI/ts
-#EXTINF:-1 xui-id="38924" tvg-id="BSP2ANZ" tvg-name="TR: BEIN SPORTS 2 HD" tvg-logo="" group-title="Turkey",TR: BEIN SPORTS 2 HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaIKl3_o5kSWInDU_d4ndFXY/ts
-#EXTINF:-1 xui-id="38925" tvg-id="BSP2ANZ" tvg-name="TR: BEIN SPORTS 2 FHD" tvg-logo="" group-title="Turkey",TR: BEIN SPORTS 2 FHD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaOGuuxRPf-T1bOSsQURD9-E/ts
-#EXTINF:-1 xui-id="38926" tvg-id="BSP3ANZ" tvg-name="TR: BEIN SPORTS 3 SD" tvg-logo="" group-title="Turkey",TR: BEIN SPORTS 3 SD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaI6cwg-nQzrVwG6LCC4umlE/ts
-#EXTINF:-1 xui-id="38927" tvg-id="BSP3ANZ" tvg-name="TR: BEIN SPORTS 3" tvg-logo="" group-title="Turkey",TR: BEIN SPORTS 3
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaGLfVmYfXKEi3H7b91TRKU0/ts
-#EXTINF:-1 xui-id="38928" tvg-id="BSP3ANZ" tvg-name="TR: BEIN SPORTS 3 FHD" tvg-logo="" group-title="Turkey",TR: BEIN SPORTS 3 FHD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaP-wvKY0PvQcZevoAXeTYUc/ts
-#EXTINF:-1 xui-id="38929" tvg-id="BEINSP4" tvg-name="TR: BEIN SPORTS 4 SD" tvg-logo="" group-title="Turkey",TR: BEIN SPORTS 4 SD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaB01ceL_lvWWsGOL5IZv44c/ts
-#EXTINF:-1 xui-id="38930" tvg-id="BEINSP4" tvg-name="TR: BEIN SPORTS 4 HD" tvg-logo="" group-title="Turkey",TR: BEIN SPORTS 4 HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaCCFiK5i1c6JERxaVpxTcE0/ts
-#EXTINF:-1 xui-id="38931" tvg-id="BEINSP4" tvg-name="TR: BEIN SPORTS 4 FHD" tvg-logo="" group-title="Turkey",TR: BEIN SPORTS 4 FHD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaGDPko-od_oXzgh9g4xp_ws/ts
-#EXTINF:-1 xui-id="38932" tvg-id="BEIN10" tvg-name="TR: BEIN SPORTS MAX 1 HD" tvg-logo="" group-title="Turkey",TR: BEIN SPORTS MAX 1 HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaBr4yzg-d9KAcRkrDuhpiUE/ts
-#EXTINF:-1 xui-id="38933" tvg-id="BEIN10" tvg-name="TR: BEIN SPORTS MAX 1 FHD" tvg-logo="" group-title="Turkey",TR: BEIN SPORTS MAX 1 FHD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaPvgVWESb52SdFJji6JUp3I/ts
-#EXTINF:-1 xui-id="38934" tvg-id="beinsportsmax2.tr" tvg-name="TR: BEIN SPORTS MAX 2 HD" tvg-logo="" group-title="Turkey",TR: BEIN SPORTS MAX 2 HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaM2uXguFoZXPrkY48HpSgyA/ts
-#EXTINF:-1 xui-id="38935" tvg-id="beinsportsmax2.tr" tvg-name="TR: BEIN SPORTS MAX 2 FHD" tvg-logo="" group-title="Turkey",TR: BEIN SPORTS MAX 2 FHD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaFouOfE8uUJjM2NAqucUWiQ/ts
-#EXTINF:-1 xui-id="155441" tvg-id="beinmoviesaction2.tr" tvg-name="TR: beIN Movies Action 2 HD" tvg-logo="" group-title="Turkey",TR: beIN Movies Action 2 HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaJnVGWX4MUDngIrZZtQ0-mmLpRM5_A7-jMeSMtqDcaTk/ts
-#EXTINF:-1 xui-id="38960" tvg-id="beinmoviespremier.tr" tvg-name="TR: BEIN MOVIES PREMIER" tvg-logo="" group-title="Turkey",TR: BEIN MOVIES PREMIER
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaB87HwDaT4hZudVnbCdXOnQ/ts
-#EXTINF:-1 xui-id="38961" tvg-id="beinmoviespremiere2.tr" tvg-name="TR: BEIN MOVIES PREMIER 2 HD" tvg-logo="" group-title="Turkey",TR: BEIN MOVIES PREMIER 2 HD
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaApWyWKicL6cj0MeJzNlauw/ts
-#EXTINF:-1 xui-id="38962" tvg-id="beinmoviesstars.tr" tvg-name="TR: BEIN MOVIES STARS" tvg-logo="" group-title="Turkey",TR: BEIN MOVIES STARS
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaMIt9PVe7UtIGmbz78Am8wE/ts
-#EXTINF:-1 xui-id="38963" tvg-id="beinmoviesaction.tr" tvg-name="TR: BEIN MOVIES ACTION" tvg-logo="" group-title="Turkey",TR: BEIN MOVIES ACTION
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaNPjw1UubNVRTrw6zDpDINY/ts
-#EXTINF:-1 xui-id="38964" tvg-id="beinmoviesfamily.tr" tvg-name="TR: BEIN MOVIES FAMILY" tvg-logo="" group-title="Turkey",TR: BEIN MOVIES FAMILY
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaCwkWM1AEXF0gqecca8N5zI/ts
-#EXTINF:-1 xui-id="38965" tvg-id="BEINMOT" tvg-name="TR: BEIN MOVIES TURK" tvg-logo="" group-title="Turkey",TR: BEIN MOVIES TURK
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaHA7-tWSvhSkQICiXPhZPaU/ts
-#EXTINF:-1 xui-id="38966" tvg-id="beinseriesvice.tr" tvg-name="TR: BEIN SERIES VICE" tvg-logo="" group-title="Turkey",TR: BEIN SERIES VICE
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaAU4tMbWd_HKiOHAuDzpHeY/ts
-#EXTINF:-1 xui-id="38967" tvg-id="beinseriesscifi.tr" tvg-name="TR: BEIN SERIES SCI-FI" tvg-logo="" group-title="Turkey",TR: BEIN SERIES SCI-FI
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaGcKjUUeuRc21-nMZTiY_l0/ts
-#EXTINF:-1 xui-id="38968" tvg-id="beinseriesdrama.tr" tvg-name="TR: BEIN SERIES DRAMA" tvg-logo="" group-title="Turkey",TR: BEIN SERIES DRAMA
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaK9dvPivnED97lWdHfBFX9A/ts
-#EXTINF:-1 xui-id="38969" tvg-id="beinseriescomedy.tr" tvg-name="TR: BEIN SERIES COMEDY" tvg-logo="" group-title="Turkey",TR: BEIN SERIES COMEDY
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaLWsaHr26LBXSmGs-pJrvtk/ts
-#EXTINF:-1 xui-id="284975" tvg-id="BEINIZ" tvg-name="TR: BEIN IZ" tvg-logo="" group-title="Turkey",TR: BEIN IZ
-http://links.iptvlogin.com:80/play/oMOg3jkVQ2TOr3gWmt0NaJJ6NtBNW8Avi3yqN1Mfl8ZHLBtaNYF-yhCNAQmFjeFs/ts
+#EXTINF:-1 tvg-id="BEIN2-I" tvg-name="USA Latin BEIN Sports Latin" tvg-logo="http://ky-iptv.com:80/images/40f0c61fa3e22d799cc5d3de9a533a03.png" group-title="USA Latin",USA Latin BEIN Sports Latin
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/176306.ts
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="USA beIN Sports LHD" tvg-logo="http://ky-iptv.com:80/images/2eb3659909ba8bde1c7dfa830f3cf698.png" group-title="USA Bein Sports",USA beIN Sports LHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/220395.ts
+#EXTINF:-1 tvg-id="beinsports2.us" tvg-name="USA BeIN Sports 2" tvg-logo="http://ky-iptv.com:25461/images/5df4c337722989678f8e5729dc956034.png" group-title="USA Bein Sports",USA BeIN Sports 2
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/220396.ts
+#EXTINF:-1 tvg-id="beinsports4.us" tvg-name="USA BeIN Sports 4" tvg-logo="http://ky-iptv.com:80/images/2eb3659909ba8bde1c7dfa830f3cf698.png" group-title="USA Bein Sports",USA BeIN Sports 4
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/220397.ts
+#EXTINF:-1 tvg-id="beinsports6.us" tvg-name="USA BeIN Sports 6" tvg-logo="http://ky-iptv.com:80/images/2eb3659909ba8bde1c7dfa830f3cf698.png" group-title="USA Bein Sports",USA BeIN Sports 6
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/220398.ts
+#EXTINF:-1 tvg-id="beinsports7.us" tvg-name="USA BeIN Sports 7" tvg-logo="http://ky-iptv.com:80/images/2eb3659909ba8bde1c7dfa830f3cf698.png" group-title="USA Bein Sports",USA BeIN Sports 7
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/220399.ts
+#EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="USA BeIN Sports LaLiga" tvg-logo="http://ky-iptv.com:80/images/2eb3659909ba8bde1c7dfa830f3cf698.png" group-title="USA Bein Sports",USA BeIN Sports LaLiga
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/220401.ts
+#EXTINF:-1 tvg-id="beinsportespanol.us" tvg-name="USA beIN SPORTS enEspanol" tvg-logo="http://ky-iptv.com:80/images/2eb3659909ba8bde1c7dfa830f3cf698.png" group-title="USA Bein Sports",USA beIN SPORTS enEspanol
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/220503.ts
+#EXTINF:-1 tvg-id="beinsports5.us" tvg-name="USA BeIN SPORTS 5 HD" tvg-logo="http://ky-iptv.com:80/images/2eb3659909ba8bde1c7dfa830f3cf698.png" group-title="USA Bein Sports",USA BeIN SPORTS 5 HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/220508.ts
+#EXTINF:-1 tvg-id="beinsports6.us" tvg-name="USA BeIN SPORTS 6 HD" tvg-logo="http://ky-iptv.com:80/images/2eb3659909ba8bde1c7dfa830f3cf698.png" group-title="USA Bein Sports",USA BeIN SPORTS 6 HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/220509.ts
+#EXTINF:-1 tvg-id="beinsports7.us" tvg-name="USA BeIN SPORTS 7 HD" tvg-logo="http://ky-iptv.com:80/images/2eb3659909ba8bde1c7dfa830f3cf698.png" group-title="USA Bein Sports",USA BeIN SPORTS 7 HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/220510.ts
+#EXTINF:-1 tvg-id="beinsports8.us" tvg-name="USA BeIN SPORTS 8 HD" tvg-logo="http://ky-iptv.com:80/images/2eb3659909ba8bde1c7dfa830f3cf698.png" group-title="USA Bein Sports",USA BeIN SPORTS 8 HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/220511.ts
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="USA BeIN SPORTS HD" tvg-logo="http://ky-iptv.com:80/images/2eb3659909ba8bde1c7dfa830f3cf698.png" group-title="USA Bein Sports",USA BeIN SPORTS HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/220512.ts
+#EXTINF:-1 tvg-id="beinsports.us" tvg-name="USA beIN Sports 01" tvg-logo="http://ky-iptv.com:80/images/9dadd0d9ae004374fe5e26e9988d9e19.png" group-title="USA Bein Sports",USA beIN Sports 01
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/1120664.ts
+#EXTINF:-1 tvg-id="beinsportsxtra.us" tvg-name="USA Bein Sports Xtra" tvg-logo="http://ky-iptv.com:80/images/b161e56efc9abdb9a3b8ead981af23b0.png" group-title="USA Bein Sports",USA Bein Sports Xtra
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/1503405.ts
+#EXTINF:-1 tvg-id="beinsport.ca" tvg-name="CA BEIN SPORTS" tvg-logo="http://ky-iptv.com:80/images/a05ed926c8f5bf4cfed0cfc75bd452e5.png" group-title="CA: Canada Sports",CA BEIN SPORTS
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/181827.ts
+#EXTINF:-1 tvg-id="beinsport.ca" tvg-name="CA beIN Sports HD" tvg-logo="http://ky-iptv.com:80/images/637304911355ee96d801524b303196ed.png" group-title="CA: Canada Sports",CA beIN Sports HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/228404.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 1 FHD" tvg-logo="http://ky-iptv.com:25461/images/a1b9f8050fb246fbec454302f6c14e22.png" group-title="AR: Arab BeIN sports VIP",AR: beIN Sports 1 FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/515957.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 2 FHD" tvg-logo="http://ky-iptv.com:80/images/b16e99a30d8e8367720eeb1c19601e6a.png" group-title="AR: Arab BeIN sports VIP",AR: beIN Sports 2 FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/515959.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR beIN Sports 3 FHD" tvg-logo="http://ky-iptv.com:25461/images/eccbc87e4b5ce2fe28308fd9f2a7baf3.png" group-title="AR: Arab BeIN sports VIP",AR beIN Sports 3 FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/515962.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR beIN Sports 4 FHD" tvg-logo="http://ky-iptv.com:80/images/badb3b94e26db066a8a78b989ddefaac.png" group-title="AR: Arab BeIN sports VIP",AR beIN Sports 4 FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/515964.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR beIN Sports 5 FHD" tvg-logo="https://www.mewatch.sg/image/13320060/16x9/947/533/405363d01f39bc2619085df274717c93/Ey/bein-sports-max-5.png" group-title="AR: Arab BeIN sports VIP",AR beIN Sports 5 FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/515966.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 6 FHD" tvg-logo="https://www.mewatch.sg/image/13320062/16x9/947/533/2831be88ba9c292078821862827ce08d/jU/bein-sports-max-6.png" group-title="AR: Arab BeIN sports VIP",AR: beIN Sports 6 FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/515967.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 7 FHD" tvg-logo="http://ky-iptv.com:25461/images/1b4d4dc5c6664ef4fc0f9bef691c7f43.png" group-title="AR: Arab BeIN sports VIP",AR: beIN Sports 7 FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/515968.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS Premium 1" tvg-logo="http://ky-iptv.com:80/images/8eeed1322ac97aa35e045147ae851f25.png" group-title="AR: Arab BeIN sports VIP",AR: BEIN SPORTS Premium 1
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/515973.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports HD" tvg-logo="http://ky-iptv.com:25461/images/08e48308cbe2dbc8183a34edb65c5d36.png" group-title="AR: Arab BeIN sports VIP",AR: beIN Sports HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/515995.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports News HD" tvg-logo="http://ky-iptv.com:80/images/6092fc787c147751430ccd7c69c432e7.png" group-title="AR: Arab BeIN sports VIP",AR: beIN Sports News HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/515996.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Max 7" tvg-logo="https://www.mewatch.sg/image/10607094/16x9/947/533/7e72b84cee8ed6382e680e7b2c49935b/St/bein-sports-max-7.png" group-title="AR: Arab BeIN sports VIP",AR: beIN Sports Max 7
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516012.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Max 9" tvg-logo="http://ky-iptv.com:25461/images/618c14c81484316628cd6919bff20ef4.png" group-title="AR: Arab BeIN sports VIP",AR: beIN Sports Max 9
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516014.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Baraem HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Baraem.png/200px-Baraem.png" group-title="AR: Arab BeIN VIP",AR: beIN Baraem HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516021.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Be Junior" tvg-logo="http://ky-iptv.com:25461/images/5682cfd69ed9f6efdb7eb7a3b7ed2452.png" group-title="AR: Arab BeIN VIP",AR: beIN Be Junior
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516022.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Boomerang HD" tvg-logo="http://ky-iptv.com:25461/images/498d21282da8800d6998b230050ffaf8.png" group-title="AR: Arab BeIN VIP",AR: beIN Boomerang HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516024.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Cartoon Network HD" tvg-logo="http://ky-iptv.com:25461/images/bc82b03305d133a94e5eeac65aef710e.png" group-title="AR: Arab BeIN VIP",AR: beIN Cartoon Network HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516025.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Dream Works HD" tvg-logo="http://ky-iptv.com:25461/images/890e4202e47e41b1b61658875c8903c9.png" group-title="AR: Arab BeIN VIP",AR: beIN Dream Works HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516029.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN DTX" tvg-logo="http://ky-iptv.com:25461/images/7c2930441b194dedf9a350ef8283c53f.png" group-title="AR: Arab BeIN VIP",AR: beIN DTX
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516030.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN FATAFEAT HD" tvg-logo="http://ky-iptv.com:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="AR: Arab BeIN VIP",AR: beIN FATAFEAT HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516032.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Fox Movies HD" tvg-logo="http://ky-iptv.com:25461/images/b8f1497e1e480412502e373f2ef0248a.png" group-title="AR: Arab BeIN VIP",AR: beIN Fox Movies HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516033.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Gourmet HD" tvg-logo="https://hadarasport.com/wp-content/uploads/2018/05/5copy.png" group-title="AR: Arab BeIN VIP",AR: beIN Gourmet HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516035.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Junior HD" tvg-logo="https://e7.pngegg.com/pngimages/862/619/png-clipart-bein-sports-bein-channels-network-bein-media-group-pay-television-television-channel-nick-jr-television-blue.png" group-title="AR: Arab BeIN VIP",AR: beIN Junior HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516037.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 1 HD" tvg-logo="http://ky-iptv.com:25461/images/4c27d5f40d3fb9f0215995b7bc43d9bf.png" group-title="AR: Arab BeIN VIP",AR: beIN Movies 1 HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516039.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 3 Drama" tvg-logo="http://ky-iptv.com:25461/images/a0f9f3b836994c821fd65310bba1aa39.png" group-title="AR: Arab BeIN VIP",AR: beIN Movies 3 Drama
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516042.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 4 Family" tvg-logo="http://ky-iptv.com:25461/images/4cafa9fe7ed4348adaa1f67ab0929f27.png" group-title="AR: Arab BeIN VIP",AR: beIN Movies 4 Family
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516044.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 4 HD" tvg-logo="http://ky-iptv.com:25461/images/59b514174bffe4ae402b3d63aad79fe0.png" group-title="AR: Arab BeIN VIP",AR: beIN Movies 4 HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516045.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies Action 2 HD" tvg-logo="https://media.elcinema.com/tvguide/1323_1.png" group-title="AR: Arab BeIN VIP",AR: beIN Movies Action 2 HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516046.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies Family 4 HD" tvg-logo="http://ky-iptv.com:25461/images/4cafa9fe7ed4348adaa1f67ab0929f27.png" group-title="AR: Arab BeIN VIP",AR: beIN Movies Family 4 HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516050.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies HD 2 Action" tvg-logo="http://ky-iptv.com:25461/images/7be0bc89a0767d6f6a1b98e77dd8b6e3.png" group-title="AR: Arab BeIN VIP",AR: beIN Movies HD 2 Action
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516052.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies Premiere HD" tvg-logo="http://ky-iptv.com:25461/images/2962ccdf8269fd3a30e2f704a0fd52fe.png" group-title="AR: Arab BeIN VIP",AR: beIN Movies Premiere HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516055.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Outdoor HD" tvg-logo="http://ky-iptv.com:25461/images/9fb10c4ad54a082143f718eeff78b816.png" group-title="AR: Arab BeIN VIP",AR: beIN Outdoor HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516057.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Series 1 HD" tvg-logo="http://ky-iptv.com:25461/images/d2034ad8740e7498f95c92d21dc515ec.png" group-title="AR: Arab BeIN VIP",AR: beIN Series 1 HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516058.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Series 2 HD" tvg-logo="https://media.elcinema.com/tvguide/1328_1.png" group-title="AR: Arab BeIN VIP",AR: beIN Series 2 HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516059.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Series HD" tvg-logo="https://media.elcinema.com/tvguide/1327_1.png" group-title="AR: Arab BeIN VIP",AR: beIN Series HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516060.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Travel HD" tvg-logo="http://ky-iptv.com:25461/images/4516badd9bc453dad2fe3c3211698ace.png" group-title="AR: Arab BeIN VIP",AR: beIN Travel HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516061.ts
+#EXTINF:-1 tvg-id="" tvg-name="Food: Bein GOURMET" tvg-logo="http://ky-iptv.com:25461/images/0828abc672148441b3ad47023650f8ab.png" group-title="AR: Arab Food Channels",Food: Bein GOURMET
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516351.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR- BeIN Sports SD 1" tvg-logo="http://ky-iptv.com:25461/images/c207e1231312b32d0bc3fc312da45c2e.png" group-title="AR: Arab BeIN sports VIP",AR- BeIN Sports SD 1
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/943521.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR- BeIN Sports SD 2" tvg-logo="http://ky-iptv.com:25461/images/583a932e3c2264418121792e60cb23ab.png" group-title="AR: Arab BeIN sports VIP",AR- BeIN Sports SD 2
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/943522.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BeIN Sports SD 4" tvg-logo="http://ky-iptv.com:25461/images/e70779e08aa6491ad73839bd769e8c83.png" group-title="AR: Arab BeIN sports VIP",AR: BeIN Sports SD 4
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/943524.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 3 HD" tvg-logo="https://bein.net/ar/wp-content/uploads/sites/4/2015/09/beINMOVIES_3HD.png" group-title="AR: Arab BeIN VIP",AR: beIN Movies 3 HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516043.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies 2 HD" tvg-logo="http://ky-iptv.com:25461/images/f1ba6a6adde255709937e72b8875a2ab.png" group-title="AR: Arab BeIN VIP",AR: beIN Movies 2 HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516041.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies DRAMA 3 HD" tvg-logo="http://ky-iptv.com:25461/images/a0f9f3b836994c821fd65310bba1aa39.png" group-title="AR: Arab BeIN VIP",AR: beIN Movies DRAMA 3 HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516048.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies Family HD" tvg-logo="http://ky-iptv.com:25461/images/d12be669b6d095a1655a961e186a2d02.png" group-title="AR: Arab BeIN VIP",AR: beIN Movies Family HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516051.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Drama 1 HD" tvg-logo="http://ky-iptv.com:25461/images/89440144a0fb9f74bc7b52cb5349e5fb.png" group-title="AR: Arab BeIN VIP",AR: beIN Drama 1 HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516028.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Movies Drama HD" tvg-logo="http://ky-iptv.com:25461/images/56e32fe43f11becdeaabb2dfef7c90e9.png" group-title="AR: Arab BeIN VIP",AR: beIN Movies Drama HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516049.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR- BeIN Sports SD 3" tvg-logo="http://ky-iptv.com:25461/images/a6188947f4779c5604682df452c3a0e1.png" group-title="AR: Arab BeIN sports VIP",AR- BeIN Sports SD 3
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/943523.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR- BeIN Sports SD 7" tvg-logo="" group-title="AR: Arab BeIN sports VIP",AR- BeIN Sports SD 7
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/943527.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Drama" tvg-logo="http://ky-iptv.com:25461/images/89440144a0fb9f74bc7b52cb5349e5fb.png" group-title="AR: Arab BeIN VIP",AR: beIN Drama
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516027.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Jeem HD" tvg-logo="http://ky-iptv.com:25461/images/e3b644c8516a46a85b1f68a19d9f40c9.png" group-title="AR: Arab BeIN VIP",AR: beIN Jeem HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516036.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 8" tvg-logo="" group-title="AR: Arab BeIN sports VIP",beIN SPORTS MAX 8
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/943535.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS Premium 1 HD" tvg-logo="http://ky-iptv.com:80/images/39ffc1228f46acfbb6a5c36476ad70fc.png" group-title="AR: Arab BeIN sports VIP",AR: BEIN SPORTS Premium 1 HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/1123898.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS Premium 2 HD" tvg-logo="http://ky-iptv.com:25461/images/e94a3b93dbfe738b49830ac7cd6af8cf.png" group-title="AR: Arab BeIN sports VIP",AR: BEIN SPORTS Premium 2 HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/1123899.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS Premium 3 HEVC HD" tvg-logo="http://ky-iptv.com:25461/images/e94a3b93dbfe738b49830ac7cd6af8cf.png" group-title="AR: Arab BeIN sports VIP",AR: BEIN SPORTS Premium 3 HEVC HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/1123900.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Max 4" tvg-logo="https://www.mewatch.sg/image/13320058/16x9/947/533/3b509bfa1d3b01e3e41b3695c1650a68/aL/bein-sports-max-4.png" group-title="AR: Arab BeIN sports VIP",AR: beIN Sports Max 4
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516009.ts
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="BeIN SPORTS 2 English FHD" tvg-logo="http://ky-iptv.com:25461/images/a733f8868555620556c53ff670fcb934.png" group-title="AR: Arab BeIN sports VIP",BeIN SPORTS 2 English FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/1248327.ts
+#EXTINF:-1 tvg-id="" tvg-name="BS: beIN SPORT 2 4K" tvg-logo="http://ky-iptv.com:80/images/a77172ac261c1001b0eef0ed4ab3a620.png" group-title="AR: Bein 4K",BS: beIN SPORT 2 4K
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/1263379.ts
+#EXTINF:-1 tvg-id="" tvg-name="BS: beIN SPORT-3 4K" tvg-logo="http://ky-iptv.com:80/images/45d0418e2c81e0453953f830a281860f.png" group-title="AR: Bein 4K",BS: beIN SPORT-3 4K
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/1263380.ts
+#EXTINF:-1 tvg-id="" tvg-name="BS: beIN SPORT-5 4K" tvg-logo="http://ky-iptv.com:80/images/cf2118eb7161254c2ce33d2216b3f38d.png" group-title="AR: Bein 4K",BS: beIN SPORT-5 4K
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/1263382.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Max 2" tvg-logo="http://ky-iptv.com:80/images/2b8d54e09a99d9b07a1b0b09a68922ea.png" group-title="AR: Arab BeIN sports VIP",AR: beIN Sports Max 2
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/1394497.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Max 1" tvg-logo="http://ky-iptv.com:80/images/2b8d54e09a99d9b07a1b0b09a68922ea.png" group-title="AR: Arab BeIN sports VIP",AR: beIN Sports Max 1
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/1394498.ts
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="BeIN Sports English 1 HD" tvg-logo="http://ky-iptv.com:80/images/5f7cc35966747dfe2f67d764c6c232e5.png" group-title="AR: Arab BeIN sports VIP",BeIN Sports English 1 HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/1400762.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Max 5" tvg-logo="http://ky-iptv.com:80/images/da190ec5b532bbd9b8ada22521bf09c5.png" group-title="AR: Arab BeIN sports VIP",AR: beIN Sports Max 5
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516010.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Max 6" tvg-logo="http://ky-iptv.com:25461/images/bd2cb8ff934c0d1ecd8e97b06d1448d0.png" group-title="AR: Arab BeIN sports VIP",AR: beIN Sports Max 6
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/516011.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR- BeIN Sports SD 5" tvg-logo="http://ky-iptv.com:80/images/498086e4bb6b444d423660a19f5e00ea.png" group-title="AR: Arab BeIN sports VIP",AR- BeIN Sports SD 5
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/943525.ts
+#EXTINF:-1 tvg-id="beinsports3en.qa" tvg-name="BeIN Sports English 3 FHD" tvg-logo="http://ky-iptv.com:25461/images/3cd654390ee5de1de9c71c3c0e44f9db.png" group-title="AR: Arab BeIN sports VIP",BeIN Sports English 3 FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/1400763.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sport English 4k 1" tvg-logo="" group-title="AR: Bein 4K",AR: beIN Sport English 4k 1
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/1832318.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sport English 4k 2" tvg-logo="" group-title="AR: Bein 4K",AR: beIN Sport English 4k 2
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/1832319.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA: beIN Sports Ñ" tvg-logo="http://ky-iptv.com:80/images/54708cd1e29658dd22a6edc894fa84c1.png" group-title="Latino Sports",LA: beIN Sports Ñ
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/1369668.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latin beIN SPORTS en Espanol" tvg-logo="http://ky-iptv.com:25461/images/c3886f266c209a1d6b5f7ac85ecf8685.png" group-title="Latino Sports",Latin beIN SPORTS en Espanol
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/1400894.ts
+#EXTINF:-1 tvg-id="beinsport1.fr" tvg-name="FR beIN SPORTS 1" tvg-logo="http://ky-iptv.com:25461/images/05397aa742818786cc39d5712cf65671.png" group-title="FR: France Sports",FR beIN SPORTS 1
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/182316.ts
+#EXTINF:-1 tvg-id="beinsport2.fr" tvg-name="FR beIN SPORTS 2 FHD" tvg-logo="http://ky-iptv.com:80/images/90154653ab10eb3c12fdd8aa0ef40955.png" group-title="FR: France Sports",FR beIN SPORTS 2 FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/182319.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports Max 4 FHD" tvg-logo="http://ky-iptv.com:80/images/0bc5f5d703eab2e9c733950aada10efc.png" group-title="FR: France Sports",FR: beIN Sports Max 4 FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/819492.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports Max 6 FHD" tvg-logo="http://ky-iptv.com:80/images/0bc5f5d703eab2e9c733950aada10efc.png" group-title="FR: France Sports",FR: beIN Sports Max 6 FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/819493.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports Max 7 FHD" tvg-logo="http://ky-iptv.com:25461/images/c38d58529ebd5d23861cfb568fe36a67.png" group-title="FR: France Sports",FR: beIN Sports Max 7 FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/819495.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports Max 8 FHD" tvg-logo="http://ky-iptv.com:25461/images/c38d58529ebd5d23861cfb568fe36a67.png" group-title="FR: France Sports",FR: beIN Sports Max 8 FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/819496.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports Max 9 FHD" tvg-logo="http://ky-iptv.com:25461/images/c38d58529ebd5d23861cfb568fe36a67.png" group-title="FR: France Sports",FR: beIN Sports Max 9 FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/819497.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports Max 5 FHD" tvg-logo="http://ky-iptv.com:25461/images/2b0c5f859f8a58b0495f68af1ea4aeb5.png" group-title="FR: France Sports",FR: beIN Sports Max 5 FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/819494.ts
+#EXTINF:-1 tvg-id="beinsport3.fr" tvg-name="FR beIN SPORTS 3 FHD" tvg-logo="http://ky-iptv.com:25461/images/a6188947f4779c5604682df452c3a0e1.png" group-title="FR: France Sports",FR beIN SPORTS 3 FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/182322.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports 1 FHD" tvg-logo="http://ky-iptv.com:25461/images/05397aa742818786cc39d5712cf65671.png" group-title="FR: France Sports",FR: Bein Sports 1 FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/1782980.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Bein Sport 2" tvg-logo="http://ky-iptv.com:80/images/39ffc1228f46acfbb6a5c36476ad70fc.png" group-title="Indonesia",ID Bein Sport 2
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/1806226.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID Bein Sports 1" tvg-logo="http://ky-iptv.com:80/images/f8fa0a877b0fe568c9859591f7b751c8.png" group-title="Indonesia",ID Bein Sports 1
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/1830933.ts
+#EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-name="TR: beIN Sport Haber HD" tvg-logo="http://ky-iptv.com:25461/images/a98eede92a8ec1e4a9113cad05b5df97.jpg" group-title="Turkey",TR: beIN Sport Haber HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/220987.ts
+#EXTINF:-1 tvg-id="beINSports1.tr" tvg-name="TR: beIN Sports 1 HD" tvg-logo="http://ky-iptv.com:80/images/9dadd0d9ae004374fe5e26e9988d9e19.png" group-title="Turkey",TR: beIN Sports 1 HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/220988.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports 2 FHD" tvg-logo="http://ky-iptv.com:25461/images/de5db570dc9a71dd9f3e0068bec83540.png" group-title="Turkey",TR: beIN Sports 2 FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/220992.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Sports 3 FHD" tvg-logo="http://ky-iptv.com:80/images/26701d385f54af60b8bd9990584b42ab.png" group-title="Turkey",TR: beIN Sports 3 FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/220995.ts
+#EXTINF:-1 tvg-id="beINSports4.th" tvg-name="TR: beIN Sports 4 FHD" tvg-logo="http://ky-iptv.com:80/images/8623f4658244f0913cd1897dc0b1874a.png" group-title="Turkey",TR: beIN Sports 4 FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/220997.ts
+#EXTINF:-1 tvg-id="beINSportsMax1.tr" tvg-name="TR: beIN Sports Max 1 FHD" tvg-logo="http://ky-iptv.com:80/images/dfd502b4ba0a4b5a2149d0479ee85ddd.png" group-title="Turkey",TR: beIN Sports Max 1 FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/221000.ts
+#EXTINF:-1 tvg-id="beINSportsMax2.tr" tvg-name="TR: beIN Sports Max 2 FHD" tvg-logo="http://ky-iptv.com:25461/images/ddb9a55653b4be7405b62b7c61a34142.png" group-title="Turkey",TR: beIN Sports Max 2 FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/221003.ts
+#EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="TR: beIN Gurme FHD" tvg-logo="https://iconape.com/wp-content/files/uk/235835/svg/235835.svg" group-title="Turkey",TR: beIN Gurme FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/221057.ts
+#EXTINF:-1 tvg-id="beINBoxOffice1.tr" tvg-name="TR: beIN Box Office 1 FHD" tvg-logo="http://ky-iptv.com:25461/images/70ff16885ec9e46bd5fb72227f7ac6f8.png" group-title="Turkey",TR: beIN Box Office 1 FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/221161.ts
+#EXTINF:-1 tvg-id="beINBoxOffice2.tr" tvg-name="TR: beIN Box Office 2 FHD" tvg-logo="http://ky-iptv.com:25461/images/a5398d80f92b80d530f745557941d31d.png" group-title="Turkey",TR: beIN Box Office 2 FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/221162.ts
+#EXTINF:-1 tvg-id="beINBoxOffice3.tr" tvg-name="TR: beIN Box Office 3 FHD" tvg-logo="http://ky-iptv.com:25461/images/e6184cc36b2338e72bdc88cf48ac5f7a.png" group-title="Turkey",TR: beIN Box Office 3 FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/221163.ts
+#EXTINF:-1 tvg-id="beINGurme.tr" tvg-name="TR: beIN Gurme HD" tvg-logo="http://ky-iptv.com:25461/images/a3d878b3481d182fddca1b4fb1924196.png" group-title="Turkey",TR: beIN Gurme HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/221165.ts
+#EXTINF:-1 tvg-id="beINiz.tr" tvg-name="TR: beIN IZ HD" tvg-logo="http://ky-iptv.com:25461/images/8876a233b1633b5879386135ddf69319.png" group-title="Turkey",TR: beIN IZ HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/221166.ts
+#EXTINF:-1 tvg-id="beINMoviesAction2.tr" tvg-name="TR: beIN Movies Action 2 FHD" tvg-logo="http://ky-iptv.com:25461/images/22836547befd9a819f72869a71a95165.png" group-title="Turkey",TR: beIN Movies Action 2 FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/221173.ts
+#EXTINF:-1 tvg-id="beINMoviesAction.tr" tvg-name="TR: beIN Movies Action FHD" tvg-logo="http://ky-iptv.com:25461/images/22836547befd9a819f72869a71a95165.png" group-title="Turkey",TR: beIN Movies Action FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/221174.ts
+#EXTINF:-1 tvg-id="beINMoviesFamily.tr" tvg-name="TR: beIN Movies Family HD" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIQAAABjCAMAAABt21ivAAABL1BMVEX///+urrCGU1JlBAf6+vq6ur3GISjw8PHDwsRxDRHGFBzMYmr5+vnJEx7KHifLZGZPT09vb2/Fycvz7/Lx8u/EGyLJLDR9EBGHhYbMe4K8JyzFNTrWg4fY2NifHyXs8/LlxcWLFRnWnKCXl5fYjJHm5eXROEBzCAu/HimxGyTLc3jYdnzkubyMMjjJQkrQOkagFBrYo6l1HCDLhYbu4dzESlXr7fXPj5aGPEK2EBrLTlPYt7fWxMSwfnq7pKK9Xl/r1tnXYGeoW1+zP02OHSaIAQfH0c25rK/kz8fRSVi0MzzCl5ifOUKvcXKRXGLt+/bb5tnBYWqmUE+/tL0wMDDeqKPWc23AnZ6NTFGplp2iZGe6V2qrS1iYRE26s6nUL07Gr5/R1cbd1N+uw7kcHBx+xdhiAAAGAUlEQVRoge2XfXeayhaHsUWwgvgKVWGEIPguihlJIorEJJrEGJKetrY97z33+3+Gu4eozVp3rZ6uc+7KX/MsmNl7z8yeHxtUZBgKhUKhUCgUCoVCoVAoFAqFQqH8GKzIsnCKIulZ0seBQ2TXxoP/Yhd2l0/cb0Ga/SjP68UiD8cTpVIJHPBKRV6PLQiQeDzleC4IQjabFYS4PzjZ7K4XssLOfYo9zRR+Pg51SAQ7kfR8SYe2pEPanUKeFRlcCRn2GXvJ7KE+sXqm5KTldDqTyUBDemISJ7bjOHEyMGk3hZyyLJ9NcBRvxojM4epZsvmhEqyIx4bIRhGRput6JMZWFLG6DkdcIJaFurD8JC1xkiTJHEd6GU7ipmWJq4LJEUcibUYmXSaOcZysYrGIi5HIlqCFExdFJoKbexBhwxZ4fC2GRliMiIoSWGTv0Nb1MMRRLMLG5H7ZE7lFNlarkF2GTpZkWc1mHVmSVBWEOVVO4eSWM5moMDAfwwTgTBBFq61FbGS1KmKHUzll0MXw0PEHEaACz/3OeD6ef9C9kpEFK2uwSBV4S5Wdnu7xHl9RDSgJnkBSWe3xvtKS1F7RUGXOxGFou4O06cuZCR5YruwYOMRmq1sKw3AMRePOKiL7Md0VeVFLf4zO0+p4Uj1zQjZ6JsKGSlQrWNf98Unk35w82Nia9K5bWbelChzsbnu8IPd0m1QCqtwNO9hqZTQshJrUC7NV7uba4LRQSXexYvY4A98MnOoN7nKqea2AiHSFZbvpbhRFGrTnaSuKwklaKELG5yKcih55um6M/UezBEZkCoYiaK0PkSlnbaiEUPVjEZyiSJrBWbihhCbXsz5iR1Kq0u9YE0JHsgzFdB0sZOBRER5upPTAuIEVXIUvadIxj7EmdXWBM+GBM5RGyNv2NxEezsLlQl+qdARb908s05qbjmDBzl5HOil5fEcxPBBxrqgNRTMak1Cr2BPFsExXaTQGDcXqneOs0nOVD+4k7JnuyWDQwz1Xu2kAiqbzGqdp6mAApqCYuq3DaqjtcxEo63vQEREd23OPj49PzJ7Tsaouz6Ox6nteR/V527MFRVVVzXAU08auMuhZrguRgQoixmFXNWCFO0a+aZ44g5uOZS57jtqAFR4RYZ6fgwhe4FxyPSAi+iYCIYQfN/bDw1d9+ou/MGFI16fTaXteaZs20t32BdIfa76O7K/zdrXa7vi38m2lcttS/cqjcQGh1u200vaPb6eP8nrrGI9n7bY8/6Mqn11cP63w7M6wAnmPzzr2o3ziIc+v3vo22osADejrtD/7E6Hgbvaw7q8hsO0H08t3mytio83Vu1ntcoqWX9HdsFYbboJauzYcgrndDLfBL7Xa3datDdfBz6m74XpdC1YXt3e1i+nmsrbx4xULhBbDDVqiDpjzIWSdXgwXS1Q4iCgAy+2v/U+n/dmygILT01enp2sUvF3MmmsymnrXbI5g4bKQujsC3q0vj55YL64uZ0EQ/DaDyF0wnR0dbWbD/udVsJodLVbb7WoRz/uyXC6uFrDNl6vF8terzZf+0VU/gMzfRKRShdSyEKyDJEoRO1hvwS8EPyUD8CBSCILpkkxL9ptvgdHbHcRojvqnozexN9o1IwIMnJ4+zWzeFwr3b+4Lqbj9NNp8GvXvf4OEyb0IPpmKIZe8N2IrFrcPxe3y8+jNc0bx8abZ3Pn7fm80Xz/1r+9TyeRqlUyS9q/EKglHgXipww8JSv4on0ev/xmvvuX4aX8kk4lDIcjnI5n4IT7fv/qHlBOJ1f/mS/HMc9gfAX5wvvPS8l2ev9DE70//8g2J8h3sRL3ApOo2g+AkjY3IbzTcPVZ8qZqjXL6equfKOZR7n2PY3Pt8olxOMEyqzNh5/u/X/1+o52yezSOmXAcZqUQOERF1hknmX1LE+1zezteTeVBTz+US9q4ShVyynHshDUw9D/c/DxKgEtCLcSXKZOA/79FLiUjAhmwZMXUQAd8IDConyoVcPl9g8/WX0sDE3zrk/R3+wsQ+/DVgeISgod9HFAqFQqFQKBQKhUKhUP6O/wJWnvmTaCoHNwAAAABJRU5ErkJggg==" group-title="Turkey",TR: beIN Movies Family HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/221175.ts
+#EXTINF:-1 tvg-id="beINMoviesPremier.tr" tvg-name="TR: beIN Movies Premiere 2" tvg-logo="http://ky-iptv.com:25461/images/1120217146d4ca9f8233819d4eba7d42.png" group-title="Turkey",TR: beIN Movies Premiere 2
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/221179.ts
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Premiere FHD" tvg-logo="https://d19502wuiaq9sa.cloudfront.net/1200x800/images/8359/digiturk-kanallari-bein-markasi-altinda-birlesiyor_131286978305942245.png" group-title="Turkey",TR: beIN Movies Premiere FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/221180.ts
+#EXTINF:-1 tvg-id="beINMoviesStars.tr" tvg-name="TR: beIN Movies Stars FHD" tvg-logo="http://ky-iptv.com:25461/images/999c21fccef2cafe3ede15936f6cf260.png" group-title="Turkey",TR: beIN Movies Stars FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/221181.ts
+#EXTINF:-1 tvg-id="beINMoviesTurk.tr" tvg-name="TR: beIN Movies Turk FHD" tvg-logo="http://ky-iptv.com:25461/images/44626d5577fd6ac6820f3fa625e9225f.png" group-title="Turkey",TR: beIN Movies Turk FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/221182.ts
+#EXTINF:-1 tvg-id="beINSeriesComedy.tr" tvg-name="TR: beIN Series Comedy FHD" tvg-logo="http://ky-iptv.com:25461/images/ed644194e380bd164deab23b8394b05b.png" group-title="Turkey",TR: beIN Series Comedy FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/221184.ts
+#EXTINF:-1 tvg-id="beINSeriesDrama.tr" tvg-name="TR: beIN Series Drama FHD" tvg-logo="http://ky-iptv.com:25461/images/59b514174bffe4ae402b3d63aad79fe0.png" group-title="Turkey",TR: beIN Series Drama FHD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/221185.ts
+#EXTINF:-1 tvg-id="beINSeriesSciFi.tr" tvg-name="TR: beIN Series Sci-Fi HD" tvg-logo="http://ky-iptv.com:25461/images/be5a36b5a42adce0c35085e958f3da0b.png" group-title="Turkey",TR: beIN Series Sci-Fi HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/221186.ts
+#EXTINF:-1 tvg-id="beINSeriesVice.tr" tvg-name="TR: beIN Series Vice HD" tvg-logo="http://ky-iptv.com:25461/images/7432a57f8b42079c8de8d6c8746d128f.png" group-title="Turkey",TR: beIN Series Vice HD
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/221187.ts
+#EXTINF:-1 tvg-id="beINSports1.au" tvg-name="AU beIN Sports 1" tvg-logo="http://ky-iptv.com:80/images/d106b289475c7fe9b450d45436c01ccf.png" group-title="Australia",AU beIN Sports 1
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/189769.ts
+#EXTINF:-1 tvg-id="beINSports2.au" tvg-name="AU beIN Sports 2" tvg-logo="http://ky-iptv.com:80/images/742d0f059425b17818a419556da565cb.png" group-title="Australia",AU beIN Sports 2
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/189770.ts
+#EXTINF:-1 tvg-id="beINSports3.au" tvg-name="AU beIN Sports 3" tvg-logo="http://ky-iptv.com:80/images/26701d385f54af60b8bd9990584b42ab.png" group-title="Australia",AU beIN Sports 3
+http://electrotv.us:80/7QS6YKFHMv/nm722RxS8p/189771.ts
